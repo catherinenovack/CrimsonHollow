@@ -4747,3 +4747,21 @@ Sampler Limit: 32
 [2025.07.17-23.20.48:653][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.07.17-23.20.48:658][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
 [2025.07.17-23.20.48:856][333]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.07.17-23.22.54:777][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2025.07.17-23.22.56:216][734]LogSlate: Window 'Save Content' being destroyed
+[2025.07.17-23.22.56:228][734]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.17-23.22.56:321][734]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_EBAC] ([2] browsable assets)...
+[2025.07.17-23.22.56:331][734]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC]
+[2025.07.17-23.22.56:331][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_EBAC]
+[2025.07.17-23.22.56:346][734]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_EBAC
+[2025.07.17-23.22.56:346][734]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/ABP_EBACAAC57CC54308F13C422DF392C937F4C5.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/Characters/Mannequins/Animations/ABP_EBAC.uasset'
+[2025.07.17-23.22.56:361][734]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.421 ms (total: 3.97 sec)
+[2025.07.17-23.22.56:471][734]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.17-23.22.56:471][734]LogContentValidation: Enabled validators:
+[2025.07.17-23.22.56:471][734]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.17-23.22.56:471][734]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.17-23.22.56:471][734]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.17-23.22.56:471][734]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.17-23.22.56:471][734]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.17-23.22.56:471][734]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.17-23.22.56:471][734]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_EBAC Validating asset
