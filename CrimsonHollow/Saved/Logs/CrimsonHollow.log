@@ -1363,3 +1363,170 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.17-23.59.36:053][ 18]LogFab: Display: User logged in
 [2025.07.17-23.59.36:053][ 18]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
 [2025.07.17-23.59.36:627][ 21]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-g6Z3F85_VEmYMebtc6YHKg-poLm27BCd0Cfh2_bjuY3Ag]
+[2025.07.18-00.01.20:277][694]LogDerivedDataCache: C:/Users/cathn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.18-00.01.20:512][706]LogChaosDD: Creating Chaos Debug Draw Scene for world World_0
+[2025.07.18-00.01.21:504][742]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.07.18-00.01.21:504][742]LogChaosDD: Creating Chaos Debug Draw Scene for world World_1
+[2025.07.18-00.01.21:534][742]LogStreaming: Display: FlushAsyncLoading(365): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.18-00.01.22:590][742]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.07.18-00.01.22:752][743]LogChaosDD: Creating Chaos Debug Draw Scene for world World_2
+[2025.07.18-00.01.22:841][745]LogChaosDD: Creating Chaos Debug Draw Scene for world World_3
+[2025.07.18-00.03.27:880][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.07.18-00.03.28:594][737]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-00.03.28:702][737]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.07.18-00.03.28:752][737]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.07.18-00.03.28:752][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.07.18-00.03.28:763][737]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.07.18-00.03.28:763][737]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/BP_ThirdPersonCharacterC9F8FB3440615BC0F3CC8EA06D1E558D.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.07.18-00.03.28:780][737]LogFileHelpers: InternalPromptForCheckoutAndSave took 185.734 ms
+[2025.07.18-00.03.28:896][737]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-00.03.28:896][737]LogContentValidation: Enabled validators:
+[2025.07.18-00.03.28:896][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-00.03.28:896][737]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-00.03.28:896][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-00.03.28:896][737]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-00.03.28:896][737]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-00.03.28:896][737]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-00.03.28:896][737]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.07.18-00.03.49:616][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-00.03.49:714][802]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.07.18-00.03.49:714][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.07.18-00.03.49:725][802]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.07.18-00.03.49:725][802]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/BP_ThirdPersonCharacterFEFB65924D19353CEA080B8AEE9B3E50.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.07.18-00.03.49:736][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.311 ms (total: 306.045 ms)
+[2025.07.18-00.03.49:829][802]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-00.03.49:829][802]LogContentValidation: Enabled validators:
+[2025.07.18-00.03.49:829][802]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-00.03.49:829][802]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-00.03.49:829][802]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-00.03.49:829][802]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-00.03.49:829][802]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-00.03.49:829][802]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-00.03.49:829][802]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.07.18-00.03.56:522][ 70]LogChaosDD: Creating Chaos Debug Draw Scene for world World_4
+[2025.07.18-00.03.56:706][ 71]LogChaosDD: Creating Chaos Debug Draw Scene for world World_5
+[2025.07.18-00.04.01:782][250]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC
+[2025.07.18-00.04.01:783][250]LogChaosDD: Creating Chaos Debug Draw Scene for world World_6
+[2025.07.18-00.04.01:800][250]LogChaosDD: Creating Chaos Debug Draw Scene for world World_7
+[2025.07.18-00.04.01:813][250]LogStreaming: Display: FlushAsyncLoading(556): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.18-00.04.01:839][250]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.07.18-00.04.02:153][250]LogChaosDD: Creating Chaos Debug Draw Scene for world World_8
+[2025.07.18-00.04.02:557][250]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.07.18-00.04.35:231][734]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 308.691254
+[2025.07.18-00.04.36:230][737]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.18-00.04.36:230][737]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 309.356476, Update Interval: 328.666046
+[2025.07.18-00.06.25:672][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.07.18-00.06.26:224][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-00.06.26:316][ 35]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_EBAC] ([2] browsable assets)...
+[2025.07.18-00.06.26:327][ 35]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC]
+[2025.07.18-00.06.26:327][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_EBAC]
+[2025.07.18-00.06.26:340][ 35]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_EBAC
+[2025.07.18-00.06.26:340][ 35]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/ABP_EBAC066A300C444D241B587DB4920A8F8BAA.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/Characters/Mannequins/Animations/ABP_EBAC.uasset'
+[2025.07.18-00.06.26:351][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.970 ms (total: 433.015 ms)
+[2025.07.18-00.06.26:448][ 35]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-00.06.26:448][ 35]LogContentValidation: Enabled validators:
+[2025.07.18-00.06.26:448][ 35]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-00.06.26:448][ 35]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-00.06.26:448][ 35]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-00.06.26:448][ 35]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-00.06.26:448][ 35]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-00.06.26:448][ 35]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-00.06.26:448][ 35]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_EBAC Validating asset
+[2025.07.18-00.06.27:640][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-00.06.27:733][132]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_EBAC] ([2] browsable assets)...
+[2025.07.18-00.06.27:733][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_EBAC]
+[2025.07.18-00.06.27:745][132]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_EBAC
+[2025.07.18-00.06.27:745][132]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/ABP_EBAC44BABDAE4CE43B8AC58DF8869244DA34.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/Characters/Mannequins/Animations/ABP_EBAC.uasset'
+[2025.07.18-00.06.27:756][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.077 ms (total: 549.093 ms)
+[2025.07.18-00.06.27:864][132]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-00.06.27:864][132]LogContentValidation: Enabled validators:
+[2025.07.18-00.06.27:864][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-00.06.27:864][132]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-00.06.27:864][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-00.06.27:864][132]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-00.06.27:864][132]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-00.06.27:864][132]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-00.06.27:864][132]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_EBAC Validating asset
+[2025.07.18-00.07.42:448][944]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2025.07.18-00.08.45:054][425]LogStreaming: Display: FlushAsyncLoading(561): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.18-00.08.45:135][425]LogChaosDD: Creating Chaos Debug Draw Scene for world World_9
+[2025.07.18-00.08.49:895][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.07.18-00.08.50:570][799]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-00.08.50:667][799]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_EBAC] ([2] browsable assets)...
+[2025.07.18-00.08.50:679][799]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC]
+[2025.07.18-00.08.50:679][799]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_EBAC]
+[2025.07.18-00.08.50:693][799]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_EBAC
+[2025.07.18-00.08.50:694][799]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/ABP_EBAC1944AF224108F917947EA998ABCF4AA6.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/Characters/Mannequins/Animations/ABP_EBAC.uasset'
+[2025.07.18-00.08.50:705][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.485 ms (total: 683.578 ms)
+[2025.07.18-00.08.50:817][799]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-00.08.50:817][799]LogContentValidation: Enabled validators:
+[2025.07.18-00.08.50:817][799]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-00.08.50:817][799]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-00.08.50:817][799]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-00.08.50:817][799]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-00.08.50:817][799]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-00.08.50:817][799]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-00.08.50:817][799]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_EBAC Validating asset
+[2025.07.18-00.08.52:537][887]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.18-00.08.52:542][887]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.07.18-00.08.52:543][887]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.07.18-00.08.52:544][887]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.572 ms
+[2025.07.18-00.08.52:544][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.18-00.08.52:549][887]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.07.18-00.08.52:549][887]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.07.18-00.08.52:549][887]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.18-00.08.52:561][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010712s)
+[2025.07.18-00.08.52:561][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010771s)
+[2025.07.18-00.08.52:584][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.07.18-00.08.52:587][887]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.07.18-00.08.52:589][887]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.18-00.08.52:589][887]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.18-00.08.52:589][887]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.18-00.08.52:589][887]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.18-00.08.52:593][887]LogWorldPartition: Display: WorldPartition initialize took 3.890 ms (total: 184.046 ms)
+[2025.07.18-00.08.52:593][887]LogPlayLevel: PIE: World Init took: (0.005666s)
+[2025.07.18-00.08.52:594][887]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.07.18-00.08.52:594][887]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.18-00.08.52:594][887]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.18-00.08.52:594][887]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.18-00.08.52:594][887]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.18-00.08.52:594][887]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.18-00.08.52:594][887]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.18-00.08.52:594][887]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.18-00.08.52:594][887]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.18-00.08.52:594][887]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.18-00.08.52:594][887]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.18-00.08.52:594][887]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.18-00.08.52:596][887]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.18-00.08.52:630][887]LogAudioMixer: Display: Using Audio Hardware Device 1 - C27F591 (2- AMD High Definition Audio Device)
+[2025.07.18-00.08.52:631][887]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.18-00.08.52:631][887]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.18-00.08.52:631][887]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.18-00.08.52:632][887]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.07.18-00.08.52:632][887]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.07.18-00.08.52:634][887]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.07.18-00.08.52:634][887]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.07.18-00.08.52:634][887]LogInit: FAudioDevice initialized with ID 2.
+[2025.07.18-00.08.52:634][887]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2025.07.18-00.08.52:634][887]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.07.18-00.08.52:637][887]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.18-00.08.52:643][887]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.07.17-21.08.52
+[2025.07.18-00.08.52:644][887]LogWorld: Bringing up level for play took: 0.006257
+[2025.07.18-00.08.52:647][887]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.07.18-00.08.52:652][887]PIE: Server logged in
+[2025.07.18-00.08.52:653][887]PIE: Play in editor total start time 0,111 seconds.
+[2025.07.18-00.08.53:118][889]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.07.18-00.09.02:645][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.18-00.09.02:645][ 51]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.18-00.09.02:645][ 51]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.18-00.09.02:647][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.18-00.09.02:647][ 51]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.07.18-00.09.02:709][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.18-00.09.02:716][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.18-00.09.02:743][ 51]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.18-00.09.02:743][ 51]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.07.18-00.09.02:743][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.07.18-00.09.02:746][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.07.18-00.09.02:751][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.18-00.09.02:756][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.07.18-00.09.02:959][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_11
