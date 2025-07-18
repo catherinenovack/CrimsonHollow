@@ -1580,3 +1580,171 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.18-00.11.29:440][490]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.07.18-00.11.29:440][490]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.07.18-00.11.29:440][490]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.07.18-00.15.03:031][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.07.18-00.15.03:069][760]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_72
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.18-00.15.03:069][760]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_72
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.18-00.15.03:069][760]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_72
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.18-00.15.03:069][760]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_72
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.18-00.15.03:069][760]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_72
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.18-00.15.03:071][760]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_EBAC_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.18-00.15.03:071][760]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_EBAC_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.18-00.15.03:071][760]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_EBAC_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.18-00.15.03:071][760]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_EBAC_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.18-00.15.03:071][760]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_EBAC_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.18-00.15.03:072][760]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_EBAC_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.18-00.15.03:072][760]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_EBAC_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.18-00.15.03:072][760]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_EBAC_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.18-00.15.03:072][760]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_EBAC_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.18-00.15.03:072][760]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_EBAC_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.18-00.15.03:131][761]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_73
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.18-00.15.03:131][761]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_73
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.18-00.15.03:131][761]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_73
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.18-00.15.03:131][761]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_73
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.18-00.15.03:131][761]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_73
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.18-00.15.03:132][761]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_EBAC_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.18-00.15.03:132][761]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_EBAC_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.18-00.15.03:132][761]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_EBAC_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.18-00.15.03:132][761]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_EBAC_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.18-00.15.03:132][761]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_EBAC_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.18-00.15.03:134][761]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_EBAC_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.18-00.15.03:134][761]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_EBAC_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.18-00.15.03:134][761]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_EBAC_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.18-00.15.03:134][761]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_EBAC_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.18-00.15.03:134][761]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_EBAC_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.18-00.15.03:168][762]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_EBAC_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.18-00.15.03:168][762]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_EBAC_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.18-00.15.03:168][762]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_EBAC_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.18-00.15.03:168][762]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_EBAC_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.18-00.15.03:168][762]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_EBAC_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.18-00.15.03:170][762]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_EBAC_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.18-00.15.03:170][762]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_EBAC_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.18-00.15.03:170][762]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_EBAC_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.18-00.15.03:170][762]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_EBAC_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.18-00.15.03:170][762]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_EBAC_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.18-00.15.03:184][763]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_EBAC_C_0
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.18-00.15.03:186][763]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_EBAC_C_1
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.18-00.15.35:497][878]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 968.959167
+[2025.07.18-00.15.36:497][881]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.18-00.15.36:497][881]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 969.625305, Update Interval: 336.314575
+[2025.07.18-00.15.47:629][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.07.18-00.15.47:633][914]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.030
+[2025.07.18-00.15.47:633][914]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_EBAC] ([2] browsable assets)...
+[2025.07.18-00.15.47:634][914]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_74
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.18-00.15.47:634][914]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_74
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.18-00.15.47:634][914]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_74
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.18-00.15.47:634][914]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_74
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.18-00.15.47:634][914]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_74
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.18-00.15.47:780][914]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC]
+[2025.07.18-00.15.47:780][914]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_EBAC]
+[2025.07.18-00.15.47:796][914]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/ABP_EBAC_Auto1
+[2025.07.18-00.15.47:796][914]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/ABP_EBAC_Auto1FAB5F58D4F02ED42195CA9B0409086E5.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/Autosaves/Game/Characters/Mannequins/Animations/ABP_EBAC_Auto1.uasset'
+[2025.07.18-00.15.47:797][914]LogFileHelpers: Auto-saving content packages took 0.164
+[2025.07.18-00.15.47:833][915]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_75
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.18-00.15.47:833][915]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_75
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.18-00.15.47:833][915]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_75
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.18-00.15.47:833][915]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_75
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.18-00.15.47:833][915]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_75
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
