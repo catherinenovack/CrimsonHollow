@@ -1530,3 +1530,53 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.18-00.09.02:751][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.07.18-00.09.02:756][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
 [2025.07.18-00.09.02:959][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.07.18-00.10.06:903][660]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 640.362061
+[2025.07.18-00.10.07:903][663]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.18-00.10.07:903][663]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 641.029114, Update Interval: 320.101929
+[2025.07.18-00.10.52:677][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.07.18-00.10.53:325][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-00.10.53:406][106]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.07.18-00.10.53:415][106]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.07.18-00.10.53:415][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.07.18-00.10.53:425][106]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.07.18-00.10.53:425][106]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/BP_ThirdPersonCharacterC96F082A41BB60370D77D59928790AEE.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.07.18-00.10.53:436][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.846 ms (total: 795.424 ms)
+[2025.07.18-00.10.53:558][106]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-00.10.53:558][106]LogContentValidation: Enabled validators:
+[2025.07.18-00.10.53:558][106]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-00.10.53:558][106]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-00.10.53:558][106]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-00.10.53:558][106]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-00.10.53:558][106]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-00.10.53:558][106]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-00.10.53:558][106]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.07.18-00.11.28:314][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-00.11.28:392][452]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.07.18-00.11.28:392][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.07.18-00.11.28:401][452]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.07.18-00.11.28:401][452]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/BP_ThirdPersonCharacterA3EFAFE2492C2C76EECB85BF9FB3A772.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.07.18-00.11.28:416][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.781 ms (total: 897.206 ms)
+[2025.07.18-00.11.28:542][452]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-00.11.28:542][452]LogContentValidation: Enabled validators:
+[2025.07.18-00.11.28:542][452]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-00.11.28:542][452]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-00.11.28:542][452]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-00.11.28:542][452]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-00.11.28:542][452]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-00.11.28:542][452]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-00.11.28:543][452]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.07.18-00.11.29:205][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-00.11.29:305][490]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.07.18-00.11.29:305][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.07.18-00.11.29:315][490]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.07.18-00.11.29:315][490]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/BP_ThirdPersonCharacterF8A7B7E54D7F9630DD22AF824181669B.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.07.18-00.11.29:327][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.240 ms (total: 1.01 sec)
+[2025.07.18-00.11.29:440][490]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-00.11.29:440][490]LogContentValidation: Enabled validators:
+[2025.07.18-00.11.29:440][490]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-00.11.29:440][490]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-00.11.29:440][490]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-00.11.29:440][490]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-00.11.29:440][490]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-00.11.29:440][490]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-00.11.29:440][490]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
