@@ -3176,3 +3176,917 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.28-13.34.36:484][295]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6796.521484
 [2025.07.28-13.34.37:485][298]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.07.28-13.34.37:485][298]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6797.187988, Update Interval: 305.681946
+[2025.07.28-13.40.41:916][531]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: cfa...eb9
+[2025.07.28-13.40.41:916][531]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.91 RefreshExpires: 1.554e+07
+[2025.07.28-13.40.42:581][533]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7162.619141
+[2025.07.28-13.40.42:915][534]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: cfa...eb9 Access[Expires: 2025.07.28-15.41.08 Remaining: 7200.56] Refresh[Expires: 2026-01-24T11:42:46.914Z Remaining: 15544898.91] State: Valid
+[2025.07.28-13.40.43:582][536]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-13.40.43:582][536]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7163.285645, Update Interval: 318.715790
+[2025.07.28-13.42.11:285][800]LogDerivedDataCache: C:/Users/cathn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.28-13.46.53:553][803]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7533.599609
+[2025.07.28-13.46.54:552][806]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-13.46.54:553][806]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7534.265625, Update Interval: 303.217255
+[2025.07.28-13.52.51:616][877]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7891.659180
+[2025.07.28-13.52.52:615][880]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-13.52.52:616][880]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7892.325195, Update Interval: 304.121826
+[2025.07.28-13.58.52:502][ 42]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8252.538086
+[2025.07.28-13.58.53:501][ 45]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-13.58.53:501][ 45]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8253.204102, Update Interval: 349.791565
+[2025.07.28-14.05.42:898][273]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8662.916992
+[2025.07.28-14.05.43:899][276]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-14.05.43:899][276]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8663.584961, Update Interval: 324.346436
+[2025.07.28-14.11.49:280][372]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9029.273438
+[2025.07.28-14.11.50:281][375]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-14.11.50:281][375]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9029.940430, Update Interval: 300.067749
+[2025.07.28-14.17.22:658][372]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9362.639648
+[2025.07.28-14.17.23:659][375]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-14.17.23:659][375]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9363.306641, Update Interval: 358.676117
+[2025.07.28-14.24.01:380][568]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9761.300781
+[2025.07.28-14.24.02:380][571]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-14.24.02:380][571]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9761.966797, Update Interval: 331.482300
+[2025.07.28-14.30.09:101][671]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10128.999023
+[2025.07.28-14.30.10:098][674]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 10129.662109
+[2025.07.28-14.30.10:100][674]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1327463752
+[2025.07.28-14.30.10:100][674]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10129.662109, Update Interval: 358.232971
+[2025.07.28-14.36.08:478][749]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10488.364258
+[2025.07.28-14.36.09:478][752]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-14.36.09:478][752]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10489.030273, Update Interval: 312.594391
+[2025.07.28-14.41.25:187][699]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10805.043945
+[2025.07.28-14.41.26:187][702]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-14.41.26:187][702]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10805.710938, Update Interval: 356.564850
+[2025.07.28-14.42.11:286][838]LogDerivedDataCache: C:/Users/cathn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.28-14.47.28:243][788]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11168.060547
+[2025.07.28-14.47.29:243][791]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-14.47.29:243][791]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11168.727539, Update Interval: 333.536804
+[2025.07.28-14.50.48:177][388]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=1 - C27F591 (2- AMD High Definition Audio Device), InstanceID=1
+[2025.07.28-14.50.48:269][388]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.07.28-14.50.48:269][388]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=30844
+[2025.07.28-14.50.48:602][389]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.07.28-14.50.48:604][389]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{bf0f8f35-7939-49ed-9de7-96931175d803}, Name=1 - C27F591 (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=22.34
+[2025.07.28-14.50.48:604][389]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.28-14.50.48:606][389]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.28-14.53.11:289][817]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11511.080078
+[2025.07.28-14.53.12:289][820]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-14.53.12:289][820]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11511.746094, Update Interval: 338.497253
+[2025.07.28-14.59.17:348][915]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11877.110352
+[2025.07.28-14.59.18:348][918]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-14.59.18:348][918]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11877.778320, Update Interval: 320.610992
+[2025.07.28-15.05.30:403][ 34]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12250.131836
+[2025.07.28-15.05.31:403][ 37]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-15.05.31:404][ 37]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12250.797852, Update Interval: 326.595062
+[2025.07.28-15.11.47:448][165]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12627.137695
+[2025.07.28-15.11.48:448][168]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-15.11.48:448][168]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12627.804688, Update Interval: 349.456482
+[2025.07.28-15.18.22:845][351]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13022.467773
+[2025.07.28-15.18.23:845][354]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-15.18.23:845][354]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13023.133789, Update Interval: 334.617157
+[2025.07.28-15.24.43:572][493]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13403.145508
+[2025.07.28-15.24.44:572][496]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-15.24.44:572][496]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13403.812500, Update Interval: 301.127960
+[2025.07.28-15.30.20:961][505]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13740.491211
+[2025.07.28-15.30.21:961][508]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-15.30.21:962][508]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13741.157227, Update Interval: 347.334198
+[2025.07.28-15.37.09:023][729]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14148.500000
+[2025.07.28-15.37.10:022][732]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-15.37.10:022][732]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14149.166016, Update Interval: 355.519287
+[2025.07.28-15.39.03:369][ 72]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: cfa...eb9
+[2025.07.28-15.39.03:369][ 72]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.89 RefreshExpires: 1.554e+07
+[2025.07.28-15.39.04:369][ 75]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: cfa...eb9 Access[Expires: 2025.07.28-17.39.29 Remaining: 7200.85] Refresh[Expires: 2026-01-24T11:42:46.914Z Remaining: 15537797.91] State: Valid
+[2025.07.28-15.42.11:287][636]LogDerivedDataCache: C:/Users/cathn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.28-15.44.01:407][966]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14560.818359
+[2025.07.28-15.44.02:408][969]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-15.44.02:408][969]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14561.485352, Update Interval: 356.605133
+[2025.07.28-15.50.47:132][183]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14966.483398
+[2025.07.28-15.50.48:132][186]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-15.50.48:132][186]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14967.150391, Update Interval: 337.488342
+[2025.07.28-15.50.52:971][201]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Alto-falantes (Steam Streaming Speakers), InstanceID=1
+[2025.07.28-15.50.53:127][201]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.07.28-15.50.53:127][201]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=30844
+[2025.07.28-15.50.53:460][202]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.07.28-15.50.53:462][202]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{eb8da9f5-40bf-4f01-8494-656715fe8806}, Name=Alto-falantes (Steam Streaming Speakers)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=13.87
+[2025.07.28-15.50.53:462][202]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.28-15.50.53:464][202]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.28-15.52.34:166][505]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=24B1W1G5 (2- NVIDIA High Definition Audio), InstanceID=1
+[2025.07.28-15.52.34:329][505]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=1 - C27F591 (2- AMD High Definition Audio Device), InstanceID=1
+[2025.07.28-15.52.34:479][505]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.07.28-15.52.34:479][505]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=30844
+[2025.07.28-15.52.34:812][506]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.07.28-15.52.34:815][506]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{bf0f8f35-7939-49ed-9de7-96931175d803}, Name=1 - C27F591 (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=22.81
+[2025.07.28-15.52.34:815][506]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.28-15.52.34:818][506]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.28-15.56.58:926][298]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15338.260742
+[2025.07.28-15.56.59:926][301]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-15.56.59:926][301]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15338.926758, Update Interval: 307.362885
+[2025.07.28-15.58.45:245][617]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Fones de ouvido (Zone 300), InstanceID=1
+[2025.07.28-15.58.45:267][617]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.07.28-15.58.45:267][617]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=30844
+[2025.07.28-15.58.45:600][618]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.07.28-15.58.45:602][618]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{1ca44d6e-7408-4f3e-8c6f-9da1a5b93a76}, Name=Fones de ouvido (Zone 300)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=26.38
+[2025.07.28-15.58.45:602][618]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.28-15.58.45:604][618]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.28-16.03.01:972][387]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15701.284180
+[2025.07.28-16.03.02:972][390]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-16.03.02:973][390]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15701.952148, Update Interval: 348.978546
+[2025.07.28-16.09.38:280][644]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16097.571289
+[2025.07.28-16.09.39:280][647]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-16.09.39:280][647]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16098.237305, Update Interval: 318.100525
+[2025.07.28-16.14.26:898][990]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_32
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.14.26:898][990]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_32
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.14.26:898][990]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_32
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.14.26:898][990]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_32
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.14.26:898][990]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_32
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.14.26:898][990]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_32
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.14.26:898][990]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_32
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.14.26:898][990]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_32
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.14.26:898][990]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_32
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.14.26:898][990]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_32
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.14.26:974][991]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_33
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.14.26:974][991]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_33
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.14.26:974][991]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_33
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.14.26:974][991]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_33
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.14.26:974][991]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_33
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.14.26:974][991]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_33
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.14.26:974][991]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_33
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.14.26:974][991]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_33
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.14.26:974][991]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_33
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.14.26:974][991]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_33
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.14.47:837][498]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_34
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.14.47:838][498]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_34
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.14.47:838][498]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_34
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.14.47:838][498]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_34
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.14.47:838][498]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_34
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.14.47:838][498]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_34
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.14.47:838][498]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_34
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.14.47:838][498]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_34
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.14.47:838][498]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_34
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.14.47:838][498]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_34
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.14.47:880][500]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_35
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.14.47:880][500]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_35
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.14.47:880][500]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_35
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.14.47:880][500]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_35
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.14.47:880][500]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_35
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.14.47:880][500]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_35
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.14.47:880][500]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_35
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.14.47:880][500]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_35
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.14.47:880][500]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_35
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.14.47:880][500]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_35
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.14.50:017][657]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_36
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.14.50:017][657]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_36
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.14.50:017][657]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_36
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.14.50:017][657]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_36
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.14.50:017][657]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_36
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.14.50:017][657]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_36
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.14.50:017][657]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_36
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.14.50:017][657]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_36
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.14.50:017][657]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_36
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.14.50:017][657]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_36
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.14.50:074][660]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_37
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.14.50:074][660]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_37
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.14.50:074][660]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_37
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.14.50:074][660]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_37
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.14.50:074][660]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_37
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.14.50:074][660]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_37
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.14.50:074][660]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_37
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.14.50:074][660]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_37
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.14.50:074][660]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_37
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.14.50:074][660]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_37
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.15.10:716][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.07.28-16.15.10:733][386]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_38
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.15.10:733][386]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_38
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.15.10:733][386]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_38
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.15.10:733][386]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_38
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.15.10:733][386]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_38
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.15.10:850][388]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_39
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.15.10:851][388]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_39
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.15.10:851][388]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_39
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.15.10:851][388]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_39
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.15.10:851][388]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_39
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.15.11:271][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.28-16.15.11:366][421]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_EBAC] ([2] browsable assets)...
+[2025.07.28-16.15.11:367][421]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_40
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.15.11:367][421]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_40
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.15.11:367][421]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_40
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.15.11:367][421]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_40
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.15.11:367][421]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_40
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.15.11:377][421]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC]
+[2025.07.28-16.15.11:377][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_EBAC]
+[2025.07.28-16.15.11:395][421]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_EBAC
+[2025.07.28-16.15.11:395][421]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/ABP_EBACBBDF72BB4D148D0E1D68738DA3F603C3.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/Characters/Mannequins/Animations/ABP_EBAC.uasset'
+[2025.07.28-16.15.11:405][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.420 ms (total: 2.39 sec)
+[2025.07.28-16.15.11:514][421]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.28-16.15.11:514][421]LogContentValidation: Enabled validators:
+[2025.07.28-16.15.11:514][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.28-16.15.11:514][421]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.28-16.15.11:514][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.28-16.15.11:514][421]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.28-16.15.11:514][421]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.28-16.15.11:514][421]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.28-16.15.11:514][421]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_EBAC Validating asset
+[2025.07.28-16.15.11:557][423]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_41
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.15.11:557][423]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_41
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.15.11:557][423]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_41
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.15.11:557][423]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_41
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.15.11:557][423]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_41
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.15.17:597][569]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2025.07.28-16.15.17:737][569]LogChaosDD: Creating Chaos Debug Draw Scene for world World_8
+[2025.07.28-16.15.17:747][569]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.07.28-16.15.18:901][569]LogChaosDD: Creating Chaos Debug Draw Scene for world World_9
+[2025.07.28-16.15.41:912][873]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16461.158203
+[2025.07.28-16.15.42:912][876]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-16.15.42:912][876]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16461.826172, Update Interval: 350.864594
+[2025.07.28-16.16.10:331][609]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_42
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.16.10:331][609]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_42
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.16.10:331][609]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_42
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.16.10:331][609]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_42
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.16.10:331][609]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_42
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.16.19:237][804]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_43
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.16.19:237][804]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_43
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.16.19:237][804]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_43
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.16.19:237][804]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_43
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.16.19:237][804]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_43
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: ================================================
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Total job queries 220, among them cache hits 39 (17.73%), DDC hits 172 (78.18%), Duplicates 3 (1.36%)
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Tracking 178 distinct input hashes that result in 165 distinct outputs (92.70%)
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: RAM used: 126,60 KiB of 3,00 GiB budget. Usage: 0.00%
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Shaders Compiled: 6
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Average time worker was idle: 9.09 s
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.08 s
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Job execution time: average 2.89 s, max 4.23 s
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Job life time (pending + execution): average 2.96 s, max 4.30
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Shader code size: average 6,219 KiB, min 2,785 KiB, max 7,801 KiB
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.77 s
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Average processing rate: 1.26 jobs/sec
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Total thread time: 2,897 s
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Total thread preprocess time: 3,963 s
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Percentage time preprocessing: 136.80%
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Effective parallelization: 0.61 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.63 sec, max 0.64 sec, min 0.62 sec)
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display:                                        FCloudRenderViewPS101 (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 43.59% of total time (compiled    2 times, average 0.63 sec, max 0.64 sec, min 0.62 sec)
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 32.04% of total time (compiled    2 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display:                                                  FHitProxyPS - 12.92% of total time (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display:                                                  FHitProxyVS - 11.45% of total time (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display:                                        FCloudRenderViewPS101 - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: === Material stats ===
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Materials Translated:    145
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Material Total Translate Time: 0.56 s
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Material Translation Only: 0.13 s (23%)
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: Material Cache Hits: 31 (21%)
+[2025.07.28-16.17.57:616][109]LogShaderCompilers: Display: ================================================
+[2025.07.28-16.18.50:712][183]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_44
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.18.50:712][183]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_44
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.18.50:712][183]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_44
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.18.50:712][183]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_44
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.18.50:712][183]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_44
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.18.50:712][183]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_44
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.18.50:712][183]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_44
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.18.50:712][183]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_44
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.18.50:712][183]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_44
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.18.50:712][183]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_44
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.18.53:781][407]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_45
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.18.53:781][407]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_45
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.18.53:781][407]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_45
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.18.53:781][407]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_45
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.18.53:781][407]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_45
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.18.53:781][407]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_45
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.18.53:781][407]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_45
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.18.53:781][407]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_45
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.18.53:781][407]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_45
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.18.53:781][407]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_45
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.18.53:845][411]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_46
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.18.53:845][411]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_46
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.18.53:845][411]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_46
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.18.53:845][411]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_46
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.18.53:845][411]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_46
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.18.53:845][411]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_46
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.18.53:845][411]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_46
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.18.53:845][411]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_46
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.18.53:845][411]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_46
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.18.53:845][411]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_46
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.19.30:270][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.07.28-16.19.30:287][694]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_47
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.19.30:287][694]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_47
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.19.30:287][694]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_47
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.19.30:287][694]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_47
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.19.30:287][694]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_47
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.19.30:409][696]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_48
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.19.30:409][696]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_48
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.19.30:409][696]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_48
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.19.30:409][696]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_48
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.19.30:409][696]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_48
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.19.30:910][734]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.28-16.19.31:004][734]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_EBAC] ([2] browsable assets)...
+[2025.07.28-16.19.31:005][734]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_49
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.19.31:005][734]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_49
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.19.31:005][734]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_49
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.19.31:005][734]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_49
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.19.31:005][734]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_49
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.19.31:015][734]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC]
+[2025.07.28-16.19.31:015][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_EBAC]
+[2025.07.28-16.19.31:034][734]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_EBAC
+[2025.07.28-16.19.31:034][734]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/ABP_EBACE771AEF6463FE948C975F2AC6D3C9A91.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/Characters/Mannequins/Animations/ABP_EBAC.uasset'
+[2025.07.28-16.19.31:045][734]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.411 ms (total: 2.52 sec)
+[2025.07.28-16.19.31:154][734]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.28-16.19.31:154][734]LogContentValidation: Enabled validators:
+[2025.07.28-16.19.31:154][734]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.28-16.19.31:154][734]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.28-16.19.31:154][734]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.28-16.19.31:154][734]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.28-16.19.31:154][734]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.28-16.19.31:154][734]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.28-16.19.31:154][734]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_EBAC Validating asset
+[2025.07.28-16.19.31:199][736]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_50
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0021
+[2025.07.28-16.19.31:199][736]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_50
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:004D
+[2025.07.28-16.19.31:199][736]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_50
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0062
+[2025.07.28-16.19.31:199][736]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_50
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00B7
+[2025.07.28-16.19.31:199][736]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_50
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00CC
+[2025.07.28-16.22.08:470][478]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16847.660156
+[2025.07.28-16.22.09:469][481]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-16.22.09:469][481]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16848.326172, Update Interval: 315.313568
+[2025.07.28-16.28.17:521][585]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17216.849609
+[2025.07.28-16.28.18:521][588]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-16.28.18:521][588]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17217.515625, Update Interval: 324.582672
+[2025.07.28-16.34.41:105][ 84]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17600.544922
+[2025.07.28-16.34.42:104][ 87]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-16.34.42:104][ 87]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17601.210938, Update Interval: 338.449646
+[2025.07.28-16.40.59:499][219]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17979.117188
+[2025.07.28-16.41.00:501][222]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-16.41.00:501][222]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17979.787109, Update Interval: 324.046143
+[2025.07.28-16.42.11:287][435]LogDerivedDataCache: C:/Users/cathn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.28-16.47.23:206][370]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18362.884766
+[2025.07.28-16.47.24:207][373]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-16.47.24:207][373]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18363.552734, Update Interval: 322.705780
+[2025.07.28-16.53.21:262][444]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18720.992188
+[2025.07.28-16.53.22:262][447]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-16.53.22:262][447]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18721.660156, Update Interval: 335.849487
+[2025.07.28-16.59.42:646][588]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19102.419922
+[2025.07.28-16.59.43:645][591]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-16.59.43:645][591]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19103.085938, Update Interval: 355.854370
+[2025.07.28-17.06.09:703][749]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19489.650391
+[2025.07.28-17.06.10:702][752]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-17.06.10:702][752]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19490.318359, Update Interval: 325.681335
+[2025.07.28-17.12.11:757][835]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19851.830078
+[2025.07.28-17.12.12:757][838]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-17.12.12:757][838]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19852.498047, Update Interval: 330.953094
+[2025.07.28-17.18.41:478][  4]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20241.648438
+[2025.07.28-17.18.42:478][  7]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-17.18.42:478][  7]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20242.316406, Update Interval: 307.826172
+[2025.07.28-17.24.37:864][ 73]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20598.179688
+[2025.07.28-17.24.38:865][ 76]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-17.24.38:865][ 76]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20598.847656, Update Interval: 346.865448
+[2025.07.28-17.30.56:910][210]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20977.570312
+[2025.07.28-17.30.57:910][213]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-17.30.57:910][213]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20978.236328, Update Interval: 304.627228
+[2025.07.28-17.36.39:619][238]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21320.541016
+[2025.07.28-17.36.40:621][241]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-17.36.40:621][241]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21321.207031, Update Interval: 358.379456
+[2025.07.28-17.37.24:623][373]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: cfa...eb9
+[2025.07.28-17.37.24:624][373]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.85 RefreshExpires: 1.553e+07
+[2025.07.28-17.37.25:624][376]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: cfa...eb9 Access[Expires: 2025.07.28-19.37.50 Remaining: 7200.89] Refresh[Expires: 2026-01-24T11:42:46.914Z Remaining: 15530696.91] State: Valid
+[2025.07.28-17.42.11:288][233]LogDerivedDataCache: C:/Users/cathn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.28-17.43.28:339][464]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21729.546875
+[2025.07.28-17.43.29:340][467]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-17.43.29:340][467]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21730.212891, Update Interval: 306.053650
+[2025.07.28-17.49.22:050][525]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22083.416016
+[2025.07.28-17.49.23:385][529]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-17.49.23:385][529]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22084.416016, Update Interval: 308.697784
+[2025.07.28-17.55.05:755][556]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22427.308594
+[2025.07.28-17.55.06:753][559]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-17.55.06:753][559]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22427.974609, Update Interval: 350.353699
+[2025.07.28-18.01.48:473][764]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22830.169922
+[2025.07.28-18.01.49:471][767]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-18.01.49:471][767]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22830.835938, Update Interval: 334.891815
+[2025.07.28-18.08.04:512][892]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23206.388672
+[2025.07.28-18.08.05:512][895]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-18.08.05:512][895]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23207.054688, Update Interval: 303.427826
+[2025.07.28-18.13.45:224][914]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23547.306641
+[2025.07.28-18.13.46:224][917]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-18.13.46:224][917]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23547.972656, Update Interval: 337.222809
+[2025.07.28-18.20.10:610][ 70]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23932.833984
+[2025.07.28-18.20.11:613][ 73]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-18.20.11:613][ 73]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23933.501953, Update Interval: 323.670776
+[2025.07.28-18.26.29:314][206]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24311.611328
+[2025.07.28-18.26.30:315][209]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-18.26.30:315][209]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24312.275391, Update Interval: 308.780182
+[2025.07.28-18.32.13:021][237]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24655.359375
+[2025.07.28-18.32.14:019][240]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-18.32.14:019][240]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24656.025391, Update Interval: 356.877960
+[2025.07.28-18.39.09:391][486]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25071.998047
+[2025.07.28-18.39.10:391][489]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-18.39.10:391][489]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25072.666016, Update Interval: 313.971375
+[2025.07.28-18.42.11:289][ 32]LogDerivedDataCache: C:/Users/cathn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.28-18.45.02:434][545]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25425.265625
+[2025.07.28-18.45.03:434][548]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-18.45.03:434][548]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25425.931641, Update Interval: 312.944122
+[2025.07.28-18.50.56:473][607]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25779.591797
+[2025.07.28-18.50.57:472][610]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-18.50.57:474][610]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25780.257812, Update Interval: 353.799866
+[2025.07.28-18.57.21:514][762]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26165.033203
+[2025.07.28-18.57.22:515][765]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-18.57.22:515][765]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26165.701172, Update Interval: 308.305908
+[2025.07.28-19.03.12:227][814]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26515.933594
+[2025.07.28-19.03.13:228][817]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-19.03.13:228][817]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26516.599609, Update Interval: 342.815033
+[2025.07.28-19.09.42:754][985]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26906.798828
+[2025.07.28-19.09.43:754][988]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-19.09.43:754][988]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26907.466797, Update Interval: 353.499573
+[2025.07.28-19.16.35:472][223]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27319.916016
+[2025.07.28-19.16.36:472][226]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-19.16.36:472][226]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27320.583984, Update Interval: 312.116455
+[2025.07.28-19.22.39:511][315]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27684.238281
+[2025.07.28-19.22.40:513][318]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-19.22.40:513][318]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27684.906250, Update Interval: 335.197601
+[2025.07.28-19.29.09:560][485]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28074.470703
+[2025.07.28-19.29.10:560][488]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-19.29.10:560][488]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28075.138672, Update Interval: 322.791840
+[2025.07.28-19.35.07:256][558]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28432.332031
+[2025.07.28-19.35.08:256][561]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-19.35.08:256][561]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28432.998047, Update Interval: 332.137817
+[2025.07.28-19.35.45:928][674]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: cfa...eb9
+[2025.07.28-19.35.45:928][674]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.89 RefreshExpires: 1.552e+07
+[2025.07.28-19.35.46:929][677]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: cfa...eb9 Access[Expires: 2025.07.28-21.36.12 Remaining: 7200.02] Refresh[Expires: 2026-01-24T11:42:46.914Z Remaining: 15523594.91] State: Valid
+[2025.07.28-19.41.28:971][703]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28814.261719
+[2025.07.28-19.41.29:971][706]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-19.41.29:971][706]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28814.927734, Update Interval: 341.091949
+[2025.07.28-19.42.11:290][830]LogDerivedDataCache: C:/Users/cathn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.28-19.47.53:352][856]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29198.867188
+[2025.07.28-19.47.54:351][859]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-19.47.54:351][859]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29199.535156, Update Interval: 348.000732
+[2025.07.28-19.54.19:410][ 14]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29585.115234
+[2025.07.28-19.54.20:409][ 17]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-19.54.20:409][ 17]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29585.781250, Update Interval: 306.267883
+[2025.07.28-20.00.17:120][ 87]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29942.957031
+[2025.07.28-20.00.18:119][ 90]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-20.00.18:119][ 90]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29943.623047, Update Interval: 316.716217
+[2025.07.28-20.06.27:174][197]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30313.119141
+[2025.07.28-20.06.28:174][200]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-20.06.28:174][200]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30313.787109, Update Interval: 355.462524
+[2025.07.28-20.13.06:568][395]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30712.607422
+[2025.07.28-20.13.07:569][398]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-20.13.07:569][398]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30713.273438, Update Interval: 301.587585
+[2025.07.28-20.18.55:620][442]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31061.753906
+[2025.07.28-20.18.56:621][445]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-20.18.56:621][445]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31062.419922, Update Interval: 347.755371
+[2025.07.28-20.25.41:344][659]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31467.611328
+[2025.07.28-20.25.42:344][662]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-20.25.42:344][662]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31468.279297, Update Interval: 331.242401
+[2025.07.28-20.32.03:737][806]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31850.154297
+[2025.07.28-20.32.04:737][809]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-20.32.04:737][809]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31850.818359, Update Interval: 332.509521
+[2025.07.28-20.38.22:449][942]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32228.984375
+[2025.07.28-20.38.23:449][945]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-20.38.23:449][945]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32229.652344, Update Interval: 355.218964
+[2025.07.28-20.42.11:290][629]LogDerivedDataCache: C:/Users/cathn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.28-20.44.51:843][110]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32618.484375
+[2025.07.28-20.44.52:842][113]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-20.44.52:842][113]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32619.152344, Update Interval: 323.194672
+[2025.07.28-20.51.12:897][253]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32999.187500
+[2025.07.28-20.51.13:897][256]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-20.51.13:897][256]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32999.851562, Update Interval: 323.480347
+[2025.07.28-20.57.14:944][339]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33360.585938
+[2025.07.28-20.57.15:944][342]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-20.57.15:944][342]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33361.250000, Update Interval: 308.064209
+[2025.07.28-21.02.56:985][365]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33701.992188
+[2025.07.28-21.02.57:984][368]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-21.02.57:984][368]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33702.660156, Update Interval: 357.460266
+[2025.07.28-21.09.39:377][572]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34103.730469
+[2025.07.28-21.09.40:377][575]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-21.09.40:377][575]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34104.394531, Update Interval: 304.530182
+[2025.07.28-21.15.18:086][588]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34441.750000
+[2025.07.28-21.15.19:087][591]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-21.15.19:087][591]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34442.414062, Update Interval: 354.502991
+[2025.07.28-21.21.58:809][790]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34841.246094
+[2025.07.28-21.21.59:810][793]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-21.21.59:810][793]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34841.910156, Update Interval: 354.145935
+[2025.07.28-21.28.47:526][ 16]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35248.648438
+[2025.07.28-21.28.48:526][ 19]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-21.28.48:526][ 19]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35249.312500, Update Interval: 317.575012
+[2025.07.28-21.34.07:232][975]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: cfa...eb9
+[2025.07.28-21.34.07:232][975]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.68 RefreshExpires: 1.552e+07
+[2025.07.28-21.34.08:232][978]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: cfa...eb9 Access[Expires: 2025.07.28-23.34.33 Remaining: 7200.13] Refresh[Expires: 2026-01-24T11:42:46.914Z Remaining: 15516493.91] State: Valid
+[2025.07.28-21.35.04:237][146]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35624.375000
+[2025.07.28-21.35.05:237][149]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-21.35.05:237][149]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35625.039062, Update Interval: 302.772308
+[2025.07.28-21.40.50:605][185]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35969.667969
+[2025.07.28-21.40.51:605][188]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-21.40.51:605][188]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35970.332031, Update Interval: 328.534210
+[2025.07.28-21.42.11:290][428]LogDerivedDataCache: C:/Users/cathn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.28-21.47.06:324][312]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36344.625000
+[2025.07.28-21.47.07:324][315]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-21.47.07:324][315]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36345.289062, Update Interval: 342.685028
+[2025.07.28-21.53.29:047][460]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36726.660156
+[2025.07.28-21.53.30:045][463]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-21.53.30:045][463]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36727.324219, Update Interval: 355.931274
+[2025.07.28-22.00.17:103][684]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37133.996094
+[2025.07.28-22.00.18:102][687]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-22.00.18:102][687]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37134.660156, Update Interval: 335.301971
+[2025.07.28-22.06.47:157][854]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37523.292969
+[2025.07.28-22.06.48:157][857]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-22.06.48:157][857]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37523.960938, Update Interval: 335.007172
+[2025.07.28-22.13.06:217][991]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37901.441406
+[2025.07.28-22.13.07:215][994]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-22.13.07:215][994]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37902.105469, Update Interval: 356.520874
+[2025.07.28-22.19.44:923][187]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38299.269531
+[2025.07.28-22.19.45:924][190]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-22.19.45:924][190]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38299.933594, Update Interval: 310.451965
+[2025.07.28-22.25.30:639][224]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38643.816406
+[2025.07.28-22.25.31:638][227]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-22.25.31:638][227]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38644.480469, Update Interval: 343.170258
+[2025.07.28-22.32.00:029][392]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39032.082031
+[2025.07.28-22.32.01:029][395]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-22.32.01:029][395]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39032.746094, Update Interval: 325.038605
+[2025.07.28-22.38.06:410][491]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39397.613281
+[2025.07.28-22.38.07:410][494]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-22.38.07:410][494]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39398.281250, Update Interval: 301.933655
+[2025.07.28-22.42.11:290][226]LogDerivedDataCache: C:/Users/cathn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.28-22.43.55:802][539]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39746.492188
+[2025.07.28-22.43.56:802][542]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.28-22.43.56:802][542]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39747.156250, Update Interval: 334.915619
+[2025.07.28-22.45.36:660][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.07.28-22.45.36:925][964]LogStall: Shutdown...
+[2025.07.28-22.45.36:925][964]LogStall: Shutdown complete.
+[2025.07.28-22.45.37:046][964]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.07.28-22.45.37:046][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.28-22.45.37:104][964]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.07.28-22.45.37:104][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.28-22.45.37:128][964]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.07.28-22.45.37:128][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.28-22.45.37:220][964]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.07.28-22.45.37:220][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.28-22.45.37:255][964]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.07.28-22.45.37:255][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.28-22.45.37:327][964]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.07.28-22.45.37:328][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.28-22.45.37:340][964]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.07.28-22.45.37:340][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.28-22.45.37:383][964]LogSlate: Window 'CrimsonHollow - Unreal Editor' being destroyed
+[2025.07.28-22.45.37:568][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.07.28-22.45.37:593][964]Cmd: QUIT_EDITOR
+[2025.07.28-22.45.37:593][965]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.07.28-22.45.37:639][965]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.07.28-22.45.37:640][965]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.07.28-22.45.37:640][965]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.07.28-22.45.37:642][965]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.28-22.45.37:642][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.28-22.45.37:643][965]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.07.28-22.45.37:724][965]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.07.28-22.45.37:849][965]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.07.28-22.45.37:878][965]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.07.28-22.45.37:878][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.28-22.45.37:919][965]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.07.28-22.45.37:920][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.28-22.45.37:922][965]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.07.28-22.45.37:922][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.28-22.45.37:948][965]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.07.28-22.45.37:958][965]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.07.28-22.45.37:958][965]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.07.28-22.45.37:958][965]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.07.28-22.45.38:459][965]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.07.28-22.45.38:459][965]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.07.28-22.45.38:459][965]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2025.07.28-22.45.38:459][965]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.07.28-22.45.38:459][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.07.28-22.45.38:461][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.07.28-22.45.38:468][965]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.07.28-22.45.38:468][965]LogAudio: Display: Audio Device Manager Shutdown
+[2025.07.28-22.45.38:469][965]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2025.07.28-22.45.38:472][965]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.07.28-22.45.38:472][965]LogExit: Preparing to exit.
+[2025.07.28-22.45.38:615][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.07.28-22.45.38:618][965]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.28-22.45.38:618][965]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.28-22.45.38:618][965]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.28-22.45.38:618][965]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.28-22.45.38:618][965]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.28-22.45.38:618][965]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.28-22.45.38:618][965]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.28-22.45.38:618][965]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.28-22.45.38:618][965]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.28-22.45.38:618][965]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.28-22.45.38:618][965]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.28-22.45.38:618][965]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.28-22.45.38:618][965]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.28-22.45.38:618][965]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.28-22.45.38:618][965]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.28-22.45.38:618][965]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.28-22.45.38:618][965]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.28-22.45.38:618][965]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.28-22.45.38:618][965]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.28-22.45.38:618][965]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.28-22.45.38:618][965]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.28-22.45.39:141][965]LogEditorDataStorage: Deinitializing
+[2025.07.28-22.45.39:684][965]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.07.28-22.45.39:730][965]LogExit: Editor shut down
+[2025.07.28-22.45.39:733][965]LogExit: Transaction tracking system shut down
+[2025.07.28-22.45.41:162][965]LogExit: Object subsystem successfully closed.
+[2025.07.28-22.45.41:219][965]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.07.28-22.45.41:643][965]LogMemoryProfiler: Shutdown
+[2025.07.28-22.45.41:643][965]LogNetworkingProfiler: Shutdown
+[2025.07.28-22.45.41:643][965]LoadingProfiler: Shutdown
+[2025.07.28-22.45.41:643][965]LogTimingProfiler: Shutdown
+[2025.07.28-22.45.42:390][965]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.07.28-22.45.42:406][965]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.07.28-22.45.42:406][965]LogNFORDenoise: NFORDenoise function shutting down
+[2025.07.28-22.45.42:442][965]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.07.28-22.45.42:442][965]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD6B7F20-4601-9D04-F6DC-3E8FDECDAF26%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=51c829394aa112709833af9f4de1ac17%7Ccfa4261802224423beccfc6be346eeb9%7C36c428d5-9ee2-4c5a-97fb-d800448f0247&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.07.28-22.45.43:062][965]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.07.28-22.45.43:075][965]RenderDocPlugin: plugin has been unloaded.
+[2025.07.28-22.45.43:076][965]LogXGEController: Cleaning working directory: C:/Users/cathn/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.07.28-22.45.43:108][965]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.07.28-22.45.43:108][965]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.07.28-22.45.43:108][965]LogPakFile: Destroying PakPlatformFile
+[2025.07.28-22.45.43:425][965]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.07.28-22.45.43:501][965]LogExit: Exiting.
+[2025.07.28-22.45.43:523][965]Log file closed, 07/28/25 19:45:43
