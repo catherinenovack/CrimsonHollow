@@ -4924,3 +4924,53 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
 [2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Material Cache Hits: 32 (22%)
 [2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: ================================================
+[2025.07.30-17.59.13:777][739]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19230.037109
+[2025.07.30-17.59.14:777][742]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-17.59.14:777][742]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19230.705078, Update Interval: 306.075623
+[2025.07.30-18.00.21:110][906]LogEditorTransaction: Undo Edit Interpolation Type
+[2025.07.30-18.00.21:277][906]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.07.30-18.00.49:816][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.07.30-18.02.26:380][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.07.30-18.02.26:386][811]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.032
+[2025.07.30-18.02.26:387][811]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_EBAC] ([2] browsable assets)...
+[2025.07.30-18.02.26:387][811]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_53
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0093
+[2025.07.30-18.02.26:387][811]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_53
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00BF
+[2025.07.30-18.02.26:387][811]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_53
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00D4
+[2025.07.30-18.02.26:387][811]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_53
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0129
+[2025.07.30-18.02.26:387][811]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_53
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:013E
+[2025.07.30-18.02.26:387][811]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_53
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0034
+[2025.07.30-18.02.26:387][811]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_53
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0067
+[2025.07.30-18.02.26:400][811]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC]
+[2025.07.30-18.02.26:400][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_EBAC]
+[2025.07.30-18.02.26:419][811]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/ABP_EBAC_Auto1
+[2025.07.30-18.02.26:420][811]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/ABP_EBAC_Auto11CA319354860E9AAFFDC2DBDE5CF8A43.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/Autosaves/Game/Characters/Mannequins/Animations/ABP_EBAC_Auto1.uasset'
+[2025.07.30-18.02.26:420][811]LogFileHelpers: Auto-saving content packages took 0.035
+[2025.07.30-18.05.11:017][771]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19587.876953
+[2025.07.30-18.05.11:207][785]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-18.05.11:207][785]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19588.054688, Update Interval: 351.216156
+[2025.07.30-18.11.46:865][179]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19986.169922
+[2025.07.30-18.11.47:865][182]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-18.11.47:865][182]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19986.837891, Update Interval: 323.452850
+[2025.07.30-18.17.58:251][293]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20357.873047
+[2025.07.30-18.17.59:252][296]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-18.17.59:252][296]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20358.541016, Update Interval: 332.941681
+[2025.07.30-18.24.05:650][395]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20725.507812
+[2025.07.30-18.24.06:649][398]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-18.24.06:650][398]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20726.175781, Update Interval: 342.392029
+[2025.07.30-18.30.21:035][521]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21101.089844
+[2025.07.30-18.30.22:035][524]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-18.30.22:035][524]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21101.757812, Update Interval: 313.207794
