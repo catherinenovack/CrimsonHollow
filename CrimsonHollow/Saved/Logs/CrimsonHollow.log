@@ -4478,3 +4478,449 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.30-17.26.12:453][862]LogPlayLevel: Display: Destroying online subsystem :Context_29
 [2025.07.30-17.26.15:014][900]LogSlate: Window 'Message Log' being destroyed
 [2025.07.30-17.26.15:188][900]LogSlate: Window 'Message Log' being destroyed
+[2025.07.30-17.28.04:590][263]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17359.861328
+[2025.07.30-17.28.05:922][267]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-17.28.05:922][267]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17360.859375, Update Interval: 324.079102
+[2025.07.30-17.34.17:629][382]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17733.093750
+[2025.07.30-17.34.18:630][385]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-17.34.18:630][385]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17733.759766, Update Interval: 332.881256
+[2025.07.30-17.39.33:184][329]LogDerivedDataCache: C:/Users/cathn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.30-17.40.23:692][480]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18099.357422
+[2025.07.30-17.40.24:687][483]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-17.40.24:687][483]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18100.019531, Update Interval: 341.390411
+[2025.07.30-17.46.54:075][651]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18490.001953
+[2025.07.30-17.46.55:074][654]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-17.46.55:075][654]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18490.667969, Update Interval: 336.849274
+[2025.07.30-17.51.34:818][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.07.30-17.51.34:823][576]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.032
+[2025.07.30-17.51.34:824][576]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_EBAC] ([2] browsable assets)...
+[2025.07.30-17.51.34:824][576]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_49
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0093
+[2025.07.30-17.51.34:824][576]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_49
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00BF
+[2025.07.30-17.51.34:824][576]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_49
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00D4
+[2025.07.30-17.51.34:824][576]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_49
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0129
+[2025.07.30-17.51.34:824][576]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_49
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:013E
+[2025.07.30-17.51.34:824][576]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_49
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0034
+[2025.07.30-17.51.34:824][576]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_49
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0067
+[2025.07.30-17.51.34:824][576]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_49
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0093
+[2025.07.30-17.51.34:824][576]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_49
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00BF
+[2025.07.30-17.51.34:825][576]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_49
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00D4
+[2025.07.30-17.51.34:825][576]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_49
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0129
+[2025.07.30-17.51.34:825][576]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_49
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:013E
+[2025.07.30-17.51.34:825][576]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_49
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0034
+[2025.07.30-17.51.34:825][576]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_49
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0067
+[2025.07.30-17.51.35:044][576]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC]
+[2025.07.30-17.51.35:044][576]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_EBAC]
+[2025.07.30-17.51.35:066][576]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/ABP_EBAC_Auto0
+[2025.07.30-17.51.35:066][576]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/ABP_EBAC_Auto047D8847841E443FD0C829F8173D71682.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/Autosaves/Game/Characters/Mannequins/Animations/ABP_EBAC_Auto0.uasset'
+[2025.07.30-17.51.35:085][576]LogFileHelpers: Auto-saving content packages took 0.262
+[2025.07.30-17.51.55:710][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.07.30-17.51.56:662][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.30-17.51.56:769][972]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_EBAC] ([2] browsable assets)...
+[2025.07.30-17.51.56:770][972]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_50
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0093
+[2025.07.30-17.51.56:770][972]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_50
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00BF
+[2025.07.30-17.51.56:770][972]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_50
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00D4
+[2025.07.30-17.51.56:770][972]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_50
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0129
+[2025.07.30-17.51.56:770][972]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_50
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:013E
+[2025.07.30-17.51.56:770][972]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_50
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0034
+[2025.07.30-17.51.56:770][972]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_50
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0067
+[2025.07.30-17.51.56:782][972]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC]
+[2025.07.30-17.51.56:784][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_EBAC]
+[2025.07.30-17.51.56:803][972]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_EBAC
+[2025.07.30-17.51.56:803][972]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/ABP_EBACDDB45C384202C3EAA10D988FC8B4B694.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/Characters/Mannequins/Animations/ABP_EBAC.uasset'
+[2025.07.30-17.51.56:816][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.787 ms (total: 6.10 sec)
+[2025.07.30-17.51.56:922][972]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.30-17.51.56:922][972]LogContentValidation: Enabled validators:
+[2025.07.30-17.51.56:922][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.30-17.51.56:922][972]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.30-17.51.56:922][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.30-17.51.56:922][972]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.30-17.51.56:922][972]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.30-17.51.56:922][972]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.30-17.51.56:922][972]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_EBAC Validating asset
+[2025.07.30-17.51.59:286][ 65]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.30-17.51.59:292][ 65]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.07.30-17.51.59:292][ 65]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.07.30-17.51.59:294][ 65]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.559 ms (total: 74.489 ms)
+[2025.07.30-17.51.59:294][ 65]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.30-17.51.59:294][ 65]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.30-17.51.59:304][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009587s)
+[2025.07.30-17.51.59:304][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.009634s)
+[2025.07.30-17.51.59:328][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.07.30-17.51.59:337][ 65]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.07.30-17.51.59:339][ 65]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.30-17.51.59:339][ 65]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.30-17.51.59:339][ 65]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.30-17.51.59:339][ 65]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.30-17.51.59:343][ 65]LogWorldPartition: Display: WorldPartition initialize took 4.026 ms (total: 2.76 sec)
+[2025.07.30-17.51.59:343][ 65]LogPlayLevel: PIE: World Init took: (0.006242s)
+[2025.07.30-17.51.59:344][ 65]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.07.30-17.51.59:344][ 65]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.30-17.51.59:344][ 65]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.30-17.51.59:344][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.30-17.51.59:344][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.30-17.51.59:344][ 65]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.30-17.51.59:344][ 65]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.30-17.51.59:344][ 65]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.30-17.51.59:344][ 65]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.30-17.51.59:344][ 65]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.30-17.51.59:344][ 65]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.30-17.51.59:344][ 65]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.30-17.51.59:347][ 65]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.30-17.51.59:380][ 65]LogAudioMixer: Display: Using Audio Hardware Device Fones de ouvido (Zone 300)
+[2025.07.30-17.51.59:381][ 65]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.30-17.51.59:381][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.30-17.51.59:381][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.30-17.51.59:381][ 65]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.07.30-17.51.59:381][ 65]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.07.30-17.51.59:385][ 65]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.07.30-17.51.59:385][ 65]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.07.30-17.51.59:385][ 65]LogInit: FAudioDevice initialized with ID 12.
+[2025.07.30-17.51.59:385][ 65]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonMap'.
+[2025.07.30-17.51.59:385][ 65]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.07.30-17.51.59:390][ 65]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.30-17.51.59:397][ 65]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.07.30-14.51.59
+[2025.07.30-17.51.59:397][ 65]LogWorld: Bringing up level for play took: 0.006226
+[2025.07.30-17.51.59:400][ 65]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.07.30-17.51.59:401][ 65]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set Interact Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.51.59:401][ 65]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set IsFalling Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.51.59:401][ 65]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set IsFalling Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.51.59:401][ 65]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.51.59:401][ 65]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.51.59:402][ 65]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set BLookAt Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.51.59:402][ 65]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set Look At Location Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.51.59:405][ 65]PIE: Server logged in
+[2025.07.30-17.51.59:406][ 65]PIE: Play in editor total start time 0,114 seconds.
+[2025.07.30-17.52.21:836][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.30-17.52.21:836][585]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.30-17.52.21:836][585]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.30-17.52.21:838][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-17.52.21:838][585]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.07.30-17.52.21:885][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.30-17.52.21:891][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-17.52.21:917][585]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.30-17.52.21:918][585]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.07.30-17.52.21:918][585]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.07.30-17.52.21:920][585]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.07.30-17.52.21:924][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.30-17.52.21:928][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.07.30-17.52.22:110][586]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.07.30-17.52.30:761][656]LogSlate: Window 'Message Log' being destroyed
+[2025.07.30-17.52.30:888][656]LogSlate: Window 'Message Log' being destroyed
+[2025.07.30-17.53.06:411][900]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18862.453125
+[2025.07.30-17.53.07:412][903]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-17.53.07:412][903]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18863.119141, Update Interval: 334.922943
+[2025.07.30-17.53.30:022][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.07.30-17.53.30:618][373]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.30-17.53.30:727][373]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_EBAC] ([2] browsable assets)...
+[2025.07.30-17.53.30:727][373]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_51
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0093
+[2025.07.30-17.53.30:728][373]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_51
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00BF
+[2025.07.30-17.53.30:728][373]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_51
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00D4
+[2025.07.30-17.53.30:728][373]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_51
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0129
+[2025.07.30-17.53.30:728][373]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_51
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:013E
+[2025.07.30-17.53.30:728][373]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_51
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0034
+[2025.07.30-17.53.30:728][373]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_51
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0067
+[2025.07.30-17.53.30:742][373]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC]
+[2025.07.30-17.53.30:742][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_EBAC]
+[2025.07.30-17.53.30:763][373]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_EBAC
+[2025.07.30-17.53.30:764][373]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/ABP_EBACB1F3B64F4751E267929A8494EF0347A3.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/Characters/Mannequins/Animations/ABP_EBAC.uasset'
+[2025.07.30-17.53.30:776][373]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.248 ms (total: 6.26 sec)
+[2025.07.30-17.53.30:889][373]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.30-17.53.30:889][373]LogContentValidation: Enabled validators:
+[2025.07.30-17.53.30:889][373]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.30-17.53.30:889][373]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.30-17.53.30:889][373]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.30-17.53.30:889][373]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.30-17.53.30:889][373]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.30-17.53.30:889][373]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.30-17.53.30:889][373]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_EBAC Validating asset
+[2025.07.30-17.53.32:421][414]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.30-17.53.32:427][414]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.07.30-17.53.32:427][414]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.07.30-17.53.32:429][414]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.778 ms (total: 76.267 ms)
+[2025.07.30-17.53.32:429][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.30-17.53.32:429][414]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.30-17.53.32:439][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009332s)
+[2025.07.30-17.53.32:439][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.009382s)
+[2025.07.30-17.53.32:467][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.07.30-17.53.32:473][414]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.07.30-17.53.32:476][414]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.30-17.53.32:476][414]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.30-17.53.32:476][414]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.30-17.53.32:476][414]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.30-17.53.32:480][414]LogWorldPartition: Display: WorldPartition initialize took 4.590 ms (total: 2.76 sec)
+[2025.07.30-17.53.32:480][414]LogPlayLevel: PIE: World Init took: (0.006999s)
+[2025.07.30-17.53.32:481][414]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.07.30-17.53.32:481][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.30-17.53.32:481][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.30-17.53.32:481][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.30-17.53.32:481][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.30-17.53.32:481][414]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.30-17.53.32:481][414]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.30-17.53.32:481][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.30-17.53.32:481][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.30-17.53.32:481][414]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.30-17.53.32:481][414]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.30-17.53.32:481][414]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.30-17.53.32:484][414]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.30-17.53.32:518][414]LogAudioMixer: Display: Using Audio Hardware Device Fones de ouvido (Zone 300)
+[2025.07.30-17.53.32:519][414]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.30-17.53.32:519][414]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.30-17.53.32:519][414]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.30-17.53.32:519][414]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.07.30-17.53.32:520][414]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.07.30-17.53.32:525][414]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.07.30-17.53.32:525][414]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.07.30-17.53.32:525][414]LogInit: FAudioDevice initialized with ID 13.
+[2025.07.30-17.53.32:525][414]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonMap'.
+[2025.07.30-17.53.32:525][414]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.07.30-17.53.32:528][414]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.30-17.53.32:535][414]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.07.30-14.53.32
+[2025.07.30-17.53.32:536][414]LogWorld: Bringing up level for play took: 0.007071
+[2025.07.30-17.53.32:538][414]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.07.30-17.53.32:540][414]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set Interact Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.53.32:540][414]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set IsFalling Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.53.32:540][414]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set IsFalling Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.53.32:540][414]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.53.32:540][414]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.53.32:540][414]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set BLookAt Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.53.32:540][414]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set Look At Location Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.53.32:544][414]PIE: Server logged in
+[2025.07.30-17.53.32:545][414]PIE: Play in editor total start time 0,118 seconds.
+[2025.07.30-17.53.48:495][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.30-17.53.48:495][699]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.30-17.53.48:495][699]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.30-17.53.48:497][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-17.53.48:497][699]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.07.30-17.53.48:534][699]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.30-17.53.48:540][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-17.53.48:568][699]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.30-17.53.48:568][699]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.07.30-17.53.48:568][699]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.07.30-17.53.48:571][699]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.07.30-17.53.48:574][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.30-17.53.48:579][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.07.30-17.53.48:772][700]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.07.30-17.53.50:109][720]LogSlate: Window 'Message Log' being destroyed
+[2025.07.30-17.53.50:251][720]LogSlate: Window 'Message Log' being destroyed
+[2025.07.30-17.53.55:244][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.07.30-17.53.55:776][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.30-17.53.55:874][  6]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_EBAC] ([2] browsable assets)...
+[2025.07.30-17.53.55:874][  6]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_52
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0093
+[2025.07.30-17.53.55:874][  6]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_52
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00BF
+[2025.07.30-17.53.55:874][  6]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_52
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00D4
+[2025.07.30-17.53.55:874][  6]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_52
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0129
+[2025.07.30-17.53.55:874][  6]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_52
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:013E
+[2025.07.30-17.53.55:874][  6]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_52
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0034
+[2025.07.30-17.53.55:874][  6]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_52
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0067
+[2025.07.30-17.53.55:895][  6]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC]
+[2025.07.30-17.53.55:895][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_EBAC]
+[2025.07.30-17.53.55:916][  6]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_EBAC
+[2025.07.30-17.53.55:916][  6]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/ABP_EBACBADB4D674913FC420F784A890471DB3E.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/Characters/Mannequins/Animations/ABP_EBAC.uasset'
+[2025.07.30-17.53.55:931][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.745 ms (total: 6.41 sec)
+[2025.07.30-17.53.56:056][  6]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.30-17.53.56:056][  6]LogContentValidation: Enabled validators:
+[2025.07.30-17.53.56:056][  6]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.30-17.53.56:056][  6]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.30-17.53.56:056][  6]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.30-17.53.56:056][  6]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.30-17.53.56:056][  6]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.30-17.53.56:056][  6]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.30-17.53.56:056][  6]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_EBAC Validating asset
+[2025.07.30-17.53.59:443][213]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.30-17.53.59:449][213]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.07.30-17.53.59:449][213]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.07.30-17.53.59:451][213]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.548 ms (total: 77.816 ms)
+[2025.07.30-17.53.59:451][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.30-17.53.59:451][213]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.30-17.53.59:461][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010851s)
+[2025.07.30-17.53.59:461][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010895s)
+[2025.07.30-17.53.59:488][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.07.30-17.53.59:495][213]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.07.30-17.53.59:496][213]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.30-17.53.59:496][213]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.30-17.53.59:496][213]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.30-17.53.59:496][213]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.30-17.53.59:501][213]LogWorldPartition: Display: WorldPartition initialize took 4.047 ms (total: 2.76 sec)
+[2025.07.30-17.53.59:501][213]LogPlayLevel: PIE: World Init took: (0.005999s)
+[2025.07.30-17.53.59:502][213]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.07.30-17.53.59:502][213]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.30-17.53.59:502][213]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.30-17.53.59:502][213]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.30-17.53.59:502][213]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.30-17.53.59:502][213]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.30-17.53.59:502][213]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.30-17.53.59:502][213]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.30-17.53.59:502][213]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.30-17.53.59:502][213]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.30-17.53.59:502][213]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.30-17.53.59:502][213]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.30-17.53.59:505][213]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.30-17.53.59:538][213]LogAudioMixer: Display: Using Audio Hardware Device Fones de ouvido (Zone 300)
+[2025.07.30-17.53.59:538][213]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.30-17.53.59:538][213]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.30-17.53.59:538][213]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.30-17.53.59:538][213]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.07.30-17.53.59:538][213]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.07.30-17.53.59:541][213]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.07.30-17.53.59:541][213]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.07.30-17.53.59:541][213]LogInit: FAudioDevice initialized with ID 14.
+[2025.07.30-17.53.59:541][213]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonMap'.
+[2025.07.30-17.53.59:541][213]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.07.30-17.53.59:545][213]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.30-17.53.59:551][213]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.07.30-14.53.59
+[2025.07.30-17.53.59:551][213]LogWorld: Bringing up level for play took: 0.006353
+[2025.07.30-17.53.59:554][213]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.07.30-17.53.59:555][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set Interact Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.53.59:555][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set IsFalling Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.53.59:555][213]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set IsFalling Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.53.59:555][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.53.59:555][213]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.53.59:556][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set BLookAt Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.53.59:556][213]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set Look At Location Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.53.59:558][213]PIE: Server logged in
+[2025.07.30-17.53.59:560][213]PIE: Play in editor total start time 0,111 seconds.
+[2025.07.30-17.54.11:994][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.30-17.54.11:994][433]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.30-17.54.11:996][433]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.30-17.54.11:997][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-17.54.11:997][433]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.07.30-17.54.12:060][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.30-17.54.12:067][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-17.54.12:094][433]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.30-17.54.12:095][433]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.07.30-17.54.12:095][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.07.30-17.54.12:097][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.07.30-17.54.12:104][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.30-17.54.12:108][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.07.30-17.54.12:330][434]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.07.30-17.54.13:557][449]LogSlate: Window 'Message Log' being destroyed
+[2025.07.30-17.54.13:691][449]LogSlate: Window 'Message Log' being destroyed
+[2025.07.30-17.54.22:827][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.07.30-17.54.23:486][249]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.30-17.54.23:590][249]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/BP_Pickup_Master] ([2] browsable assets)...
+[2025.07.30-17.54.23:604][249]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Pickup_Master.BP_Pickup_Master]
+[2025.07.30-17.54.23:604][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Pickup_Master]
+[2025.07.30-17.54.23:604][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Pickup_Master" FILE="../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/BP/BP_Pickup_Master.uasset" SILENT=true
+[2025.07.30-17.54.23:611][249]LogSavePackage: Moving output files for package: /Game/BP/BP_Pickup_Master
+[2025.07.30-17.54.23:612][249]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/BP_Pickup_MasterCA7042FE45BED406D8B1B9A4C8585053.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/BP/BP_Pickup_Master.uasset'
+[2025.07.30-17.54.23:624][249]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.455 ms (total: 6.55 sec)
+[2025.07.30-17.54.23:741][249]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.30-17.54.23:741][249]LogContentValidation: Enabled validators:
+[2025.07.30-17.54.23:741][249]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.30-17.54.23:741][249]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.30-17.54.23:741][249]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.30-17.54.23:741][249]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.30-17.54.23:741][249]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.30-17.54.23:741][249]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.30-17.54.23:741][249]AssetCheck: /Game/BP/BP_Pickup_Master Validating asset
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: ================================================
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Total job queries 285, among them cache hits 48 (16.84%), DDC hits 218 (76.49%), Duplicates 1 (0.35%)
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Tracking 236 distinct input hashes that result in 198 distinct outputs (83.90%)
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: RAM used: 138,50 KiB of 3,00 GiB budget. Usage: 0.00%
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Shaders Compiled: 18
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100%)
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Average time worker was idle: 2622.33 s
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.11 s
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Job execution time: average 1.75 s, max 3.45 s
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Job life time (pending + execution): average 1.83 s, max 3.56
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Shader code size: average 7,873 KiB, min 2,691 KiB, max 20,355 KiB
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.67 s
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Average processing rate: 1.54 jobs/sec
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Total thread time: 10,025 s
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Total thread preprocess time: 4,84 s
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Percentage time preprocessing: 48.28%
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Effective parallelization: 0.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.84 sec, max 1.84 sec, min 1.84 sec)
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.37 sec, max 1.37 sec, min 1.37 sec)
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.57 sec, max 0.63 sec, min 0.49 sec)
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    3 times, average 0.42 sec, max 0.48 sec, min 0.38 sec)
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.38 sec, max 0.41 sec, min 0.36 sec)
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.77% of total time (compiled    4 times, average 0.57 sec, max 0.63 sec, min 0.49 sec)
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 18.33% of total time (compiled    1 times, average 1.84 sec, max 1.84 sec, min 1.84 sec)
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.76% of total time (compiled    4 times, average 0.37 sec, max 0.44 sec, min 0.32 sec)
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display:                                                 FLumenCardCS - 13.64% of total time (compiled    1 times, average 1.37 sec, max 1.37 sec, min 1.37 sec)
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.57% of total time (compiled    3 times, average 0.42 sec, max 0.48 sec, min 0.38 sec)
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: === Material stats ===
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Materials Translated:    148
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Material Total Translate Time: 0.60 s
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Material Translation Only: 0.11 s (18%)
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: Material Cache Hits: 32 (22%)
+[2025.07.30-17.54.26:058][339]LogShaderCompilers: Display: ================================================
