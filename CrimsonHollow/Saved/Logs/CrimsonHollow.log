@@ -4093,3 +4093,388 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.30-14.57.07:778][901]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8303.241211
 [2025.07.30-14.57.08:778][904]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.07.30-14.57.08:778][904]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8303.908203, Update Interval: 312.365479
+[2025.07.30-14.58.45:344][243]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=1 - C27F591 (2- AMD High Definition Audio Device), InstanceID=1
+[2025.07.30-14.58.45:411][243]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.07.30-14.58.45:411][243]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=34220
+[2025.07.30-14.58.45:744][244]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.07.30-14.58.45:746][244]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{bf0f8f35-7939-49ed-9de7-96931175d803}, Name=1 - C27F591 (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=36.52
+[2025.07.30-14.58.45:746][244]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.30-14.58.45:748][244]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.30-15.03.17:828][ 60]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8673.235352
+[2025.07.30-15.03.18:828][ 63]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-15.03.18:829][ 63]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8673.903320, Update Interval: 342.567841
+[2025.07.30-15.09.53:939][248]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9069.263672
+[2025.07.30-15.09.54:939][251]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-15.09.54:939][251]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9069.931641, Update Interval: 310.754120
+[2025.07.30-15.15.51:347][320]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9426.602539
+[2025.07.30-15.15.52:348][323]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-15.15.52:348][323]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9427.269531, Update Interval: 317.399200
+[2025.07.30-15.21.43:765][377]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9778.952148
+[2025.07.30-15.21.44:766][380]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-15.21.44:766][380]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9779.620117, Update Interval: 303.682373
+[2025.07.30-15.27.33:499][426]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10128.620117
+[2025.07.30-15.27.34:500][429]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-15.27.34:500][429]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10129.286133, Update Interval: 327.898804
+[2025.07.30-15.33.53:918][567]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10508.968750
+[2025.07.30-15.33.54:918][570]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-15.33.54:918][570]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10509.634766, Update Interval: 338.471619
+[2025.07.30-15.39.33:184][585]LogDerivedDataCache: C:/Users/cathn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.30-15.40.19:026][722]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10894.005859
+[2025.07.30-15.40.20:026][725]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-15.40.20:026][725]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10894.672852, Update Interval: 340.414429
+[2025.07.30-15.46.44:787][879]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11279.729492
+[2025.07.30-15.46.45:788][882]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-15.46.45:788][882]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11280.396484, Update Interval: 356.312134
+[2025.07.30-15.53.26:215][ 83]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11681.124023
+[2025.07.30-15.53.27:216][ 86]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-15.53.27:216][ 86]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11681.791016, Update Interval: 342.034973
+[2025.07.30-15.59.54:320][247]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12069.202148
+[2025.07.30-15.59.55:320][250]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-15.59.55:320][250]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12069.868164, Update Interval: 328.493896
+[2025.07.30-16.06.04:083][356]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12438.910156
+[2025.07.30-16.06.05:084][359]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-16.06.05:084][359]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12439.576172, Update Interval: 321.733459
+[2025.07.30-16.12.06:187][442]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12800.970703
+[2025.07.30-16.12.07:186][445]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-16.12.07:187][445]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12801.636719, Update Interval: 341.683411
+[2025.07.30-16.12.57:696][597]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Fones de ouvido (Zone 300), InstanceID=1
+[2025.07.30-16.12.57:860][597]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.07.30-16.12.57:860][597]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=34220
+[2025.07.30-16.12.58:193][598]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.07.30-16.12.58:196][598]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{1ca44d6e-7408-4f3e-8c6f-9da1a5b93a76}, Name=Fones de ouvido (Zone 300)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=23.69
+[2025.07.30-16.12.58:196][598]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.30-16.12.58:198][598]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.30-16.15.44:150][867]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.30-16.15.44:156][867]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.07.30-16.15.44:156][867]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.07.30-16.15.44:158][867]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.648 ms (total: 70.847 ms)
+[2025.07.30-16.15.44:158][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.30-16.15.44:158][867]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.30-16.15.44:170][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011517s)
+[2025.07.30-16.15.44:170][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.011564s)
+[2025.07.30-16.15.44:200][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.07.30-16.15.44:206][867]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.07.30-16.15.44:208][867]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.30-16.15.44:208][867]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.30-16.15.44:208][867]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.30-16.15.44:208][867]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.30-16.15.44:212][867]LogWorldPartition: Display: WorldPartition initialize took 4.461 ms (total: 2.75 sec)
+[2025.07.30-16.15.44:212][867]LogPlayLevel: PIE: World Init took: (0.006672s)
+[2025.07.30-16.15.44:214][867]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.07.30-16.15.44:214][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.30-16.15.44:214][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.30-16.15.44:214][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.30-16.15.44:214][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.30-16.15.44:214][867]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.30-16.15.44:214][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.30-16.15.44:214][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.30-16.15.44:214][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.30-16.15.44:214][867]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.30-16.15.44:214][867]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.30-16.15.44:214][867]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.30-16.15.44:217][867]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.30-16.15.44:251][867]LogAudioMixer: Display: Using Audio Hardware Device Fones de ouvido (Zone 300)
+[2025.07.30-16.15.44:252][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.30-16.15.44:252][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.30-16.15.44:252][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.30-16.15.44:252][867]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.07.30-16.15.44:252][867]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.07.30-16.15.44:255][867]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.07.30-16.15.44:255][867]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.07.30-16.15.44:255][867]LogInit: FAudioDevice initialized with ID 10.
+[2025.07.30-16.15.44:256][867]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonMap'.
+[2025.07.30-16.15.44:256][867]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.07.30-16.15.44:259][867]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.30-16.15.44:265][867]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.07.30-13.15.44
+[2025.07.30-16.15.44:266][867]LogWorld: Bringing up level for play took: 0.006406
+[2025.07.30-16.15.44:268][867]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.07.30-16.15.44:269][867]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set Interact Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-16.15.44:269][867]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set IsFalling Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-16.15.44:270][867]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set IsFalling Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-16.15.44:270][867]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-16.15.44:270][867]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-16.15.44:270][867]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set BLookAt Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-16.15.44:270][867]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set Look At Location Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-16.15.44:272][867]PIE: Server logged in
+[2025.07.30-16.15.44:274][867]PIE: Play in editor total start time 0,117 seconds.
+[2025.07.30-16.16.11:714][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.30-16.16.11:715][525]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.30-16.16.11:715][525]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.30-16.16.11:716][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-16.16.11:716][525]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.07.30-16.16.11:735][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.30-16.16.11:741][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-16.16.11:768][525]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.30-16.16.11:768][525]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.07.30-16.16.11:768][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.07.30-16.16.11:770][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.07.30-16.16.11:776][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.30-16.16.11:779][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.07.30-16.16.11:971][526]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.07.30-16.16.14:088][568]LogSlate: Window 'Message Log' being destroyed
+[2025.07.30-16.16.14:187][568]LogSlate: Window 'Message Log' being destroyed
+[2025.07.30-16.18.26:695][589]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13181.472656
+[2025.07.30-16.18.27:695][592]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-16.18.27:696][592]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13182.139648, Update Interval: 329.065216
+[2025.07.30-16.24.43:157][718]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13557.906250
+[2025.07.30-16.24.44:158][721]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-16.24.44:159][722]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13558.573242, Update Interval: 353.415314
+[2025.07.30-16.31.24:893][923]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13959.601562
+[2025.07.30-16.31.25:894][926]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-16.31.25:894][926]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13960.268555, Update Interval: 330.515442
+[2025.07.30-16.36.28:420][868]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: cfa...eb9
+[2025.07.30-16.36.28:420][868]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.95 RefreshExpires: 1.554e+07
+[2025.07.30-16.36.29:420][871]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: cfa...eb9 Access[Expires: 2025.07.30-18.36.54 Remaining: 7200.08] Refresh[Expires: 2026-01-26T12:40:11.272Z Remaining: 15537797.27] State: Valid
+[2025.07.30-16.37.52:567][612]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14347.321289
+[2025.07.30-16.37.53:568][615]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-16.37.53:568][615]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14347.990234, Update Interval: 350.075378
+[2025.07.30-16.38.50:877][957]LogBlueprint: Error: [AssetLog] E:\Unreal Projects\Estudo\CrimsonHollow\CrimsonHollow\Content\Characters\Mannequins\Animations\ABP_EBAC.uasset: [Compiler] In use pin  Look at Position  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2025.07.30-16.38.50:881][957]LogBlueprint: Error: [AssetLog] E:\Unreal Projects\Estudo\CrimsonHollow\CrimsonHollow\Content\Characters\Mannequins\Animations\ABP_EBAC.uasset: [Compiler] In use pin  Look at Position  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2025.07.30-16.38.50:892][957]LogClass: Warning: Type mismatch in LookAtPosition of BP_ThirdPersonCharacter_C - Previous (StructProperty) Current(ObjectProperty) in package: FObjectReader
+[2025.07.30-16.38.50:954][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.07.30-16.38.51:917][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.30-16.38.52:016][ 39]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.07.30-16.38.52:074][ 39]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.07.30-16.38.52:074][ 39]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.07.30-16.38.52:084][ 39]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.07.30-16.38.52:085][ 39]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/BP_ThirdPersonCharacterA325117648E59A77A4149681E8469E3F.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.07.30-16.38.52:096][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 178.536 ms (total: 5.06 sec)
+[2025.07.30-16.38.52:202][ 39]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.30-16.38.52:202][ 39]LogContentValidation: Enabled validators:
+[2025.07.30-16.38.52:202][ 39]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.30-16.38.52:202][ 39]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.30-16.38.52:202][ 39]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.30-16.38.52:202][ 39]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.30-16.38.52:202][ 39]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.30-16.38.52:202][ 39]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.30-16.38.52:202][ 39]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.07.30-16.39.33:184][ 42]LogDerivedDataCache: C:/Users/cathn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.30-16.39.59:662][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.07.30-16.39.59:665][183]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.031
+[2025.07.30-16.39.59:667][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.07.30-16.39.59:868][183]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.07.30-16.39.59:868][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.07.30-16.39.59:881][183]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8
+[2025.07.30-16.39.59:881][183]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/BP_ThirdPersonCharacter_Auto811065C67496FAF98B5D164AB0B845FD3.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8.uasset'
+[2025.07.30-16.39.59:882][183]LogFileHelpers: Auto-saving content packages took 0.216
+[2025.07.30-16.44.18:291][959]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14733.042969
+[2025.07.30-16.44.19:291][962]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-16.44.19:291][962]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14733.710938, Update Interval: 325.009308
+[2025.07.30-16.50.00:161][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.07.30-16.50.00:170][911]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.037
+[2025.07.30-16.50.00:170][911]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.07.30-16.50.00:285][911]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.07.30-16.50.00:285][911]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.07.30-16.50.00:298][911]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto9
+[2025.07.30-16.50.00:298][911]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/BP_ThirdPersonCharacter_Auto93216C20B42EE2E98A6FE95A129752D1B.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto9.uasset'
+[2025.07.30-16.50.00:299][911]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_EBAC] ([2] browsable assets)...
+[2025.07.30-16.50.00:326][911]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC]
+[2025.07.30-16.50.00:326][911]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_EBAC]
+[2025.07.30-16.50.00:660][911]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/ABP_EBAC_Auto9
+[2025.07.30-16.50.00:660][911]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/ABP_EBAC_Auto9E73E45114C28EE32EABF5490B0FC0CE2.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/Autosaves/Game/Characters/Mannequins/Animations/ABP_EBAC_Auto9.uasset'
+[2025.07.30-16.50.00:666][911]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/BP_Pickup_Master] ([2] browsable assets)...
+[2025.07.30-16.50.00:713][911]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Pickup_Master.BP_Pickup_Master]
+[2025.07.30-16.50.00:713][911]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Pickup_Master]
+[2025.07.30-16.50.00:720][911]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/BP_Pickup_Master_Auto9
+[2025.07.30-16.50.00:720][911]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/BP_Pickup_Master_Auto9DA9FAAEF4BD66AFFB17DB2931DEEDABA.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/Autosaves/Game/BP/BP_Pickup_Master_Auto9.uasset'
+[2025.07.30-16.50.00:720][911]LogFileHelpers: Auto-saving content packages took 0.551
+[2025.07.30-16.50.42:285][471]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15117.094727
+[2025.07.30-16.50.43:288][474]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-16.50.43:288][474]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15117.761719, Update Interval: 329.634705
+[2025.07.30-16.51.03:268][ 18]LogBlueprint: Error: [AssetLog] E:\Unreal Projects\Estudo\CrimsonHollow\CrimsonHollow\Content\Characters\Mannequins\Animations\ABP_EBAC.uasset: [Compiler] In use pin  Look at Actor  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2025.07.30-16.51.03:271][ 18]LogBlueprint: Error: [AssetLog] E:\Unreal Projects\Estudo\CrimsonHollow\CrimsonHollow\Content\Characters\Mannequins\Animations\ABP_EBAC.uasset: [Compiler] In use pin  Look at Actor  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2025.07.30-16.51.03:274][ 18]LogBlueprint: Error: [AssetLog] E:\Unreal Projects\Estudo\CrimsonHollow\CrimsonHollow\Content\BP\BP_Pickup_Master.uasset: [Compiler] In use pin  Look at Actor  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2025.07.30-16.51.03:308][ 18]LogStreaming: Display: FlushAsyncLoading(564): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.30-16.51.03:376][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.07.30-16.51.04:005][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.30-16.51.04:099][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.07.30-16.51.04:200][ 57]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.07.30-16.51.04:200][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.07.30-16.51.04:212][ 57]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.07.30-16.51.04:212][ 57]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/BP_ThirdPersonCharacter991D4F344BF499AA9AE6C69E0BFF79D4.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.07.30-16.51.04:229][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave took 224.212 ms (total: 5.29 sec)
+[2025.07.30-16.51.04:351][ 57]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.30-16.51.04:351][ 57]LogContentValidation: Enabled validators:
+[2025.07.30-16.51.04:351][ 57]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.30-16.51.04:351][ 57]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.30-16.51.04:351][ 57]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.30-16.51.04:352][ 57]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.30-16.51.04:352][ 57]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.30-16.51.04:352][ 57]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.30-16.51.04:352][ 57]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.07.30-16.52.00:572][374]LogBlueprint: Error: [AssetLog] E:\Unreal Projects\Estudo\CrimsonHollow\CrimsonHollow\Content\Characters\Mannequins\Animations\ABP_EBAC.uasset: [Compiler] In use pin  Look at Actor  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2025.07.30-16.52.00:576][374]LogBlueprint: Error: [AssetLog] E:\Unreal Projects\Estudo\CrimsonHollow\CrimsonHollow\Content\Characters\Mannequins\Animations\ABP_EBAC.uasset: [Compiler] In use pin  Look at Actor  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2025.07.30-16.52.00:652][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.07.30-16.52.01:494][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.30-16.52.01:584][454]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.07.30-16.52.01:645][454]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.07.30-16.52.01:645][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.07.30-16.52.01:657][454]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.07.30-16.52.01:657][454]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/BP_ThirdPersonCharacterA92682C44FEFF0D9653DE094C7F69888.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.07.30-16.52.01:668][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 175.336 ms (total: 5.46 sec)
+[2025.07.30-16.52.01:784][454]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.30-16.52.01:784][454]LogContentValidation: Enabled validators:
+[2025.07.30-16.52.01:784][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.30-16.52.01:784][454]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.30-16.52.01:784][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.30-16.52.01:784][454]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.30-16.52.01:784][454]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.30-16.52.01:784][454]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.30-16.52.01:784][454]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.07.30-16.54.20:175][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.07.30-16.54.20:992][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.30-16.54.21:088][ 71]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_EBAC] ([2] browsable assets)...
+[2025.07.30-16.54.21:089][ 71]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_48
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0093
+[2025.07.30-16.54.21:089][ 71]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_48
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00BF
+[2025.07.30-16.54.21:089][ 71]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_48
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:00D4
+[2025.07.30-16.54.21:089][ 71]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_48
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0129
+[2025.07.30-16.54.21:089][ 71]LogScript: Warning: Accessed None
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_48
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:013E
+[2025.07.30-16.54.21:089][ 71]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_48
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0034
+[2025.07.30-16.54.21:089][ 71]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	ABP_EBAC_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_EBAC_C_48
+	Function /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC_C:ExecuteUbergraph_ABP_EBAC:0067
+[2025.07.30-16.54.21:102][ 71]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_EBAC.ABP_EBAC]
+[2025.07.30-16.54.21:102][ 71]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_EBAC]
+[2025.07.30-16.54.21:121][ 71]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_EBAC
+[2025.07.30-16.54.21:122][ 71]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/ABP_EBAC41C6DCD54556B219DF1F16A0F8B6BA48.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/Characters/Mannequins/Animations/ABP_EBAC.uasset'
+[2025.07.30-16.54.21:133][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.612 ms (total: 5.60 sec)
+[2025.07.30-16.54.21:260][ 71]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.30-16.54.21:260][ 71]LogContentValidation: Enabled validators:
+[2025.07.30-16.54.21:260][ 71]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.30-16.54.21:260][ 71]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.30-16.54.21:260][ 71]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.30-16.54.21:260][ 71]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.30-16.54.21:260][ 71]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.30-16.54.21:260][ 71]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.30-16.54.21:260][ 71]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_EBAC Validating asset
+[2025.07.30-16.56.24:940][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.30-16.56.25:040][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_EBAC] ([2] browsable assets)...
+[2025.07.30-16.56.25:040][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_EBAC]
+[2025.07.30-16.56.25:060][569]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_EBAC
+[2025.07.30-16.56.25:060][569]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/ABP_EBAC71DCAC2049821F1F92B0599AC993BAE1.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/Characters/Mannequins/Animations/ABP_EBAC.uasset'
+[2025.07.30-16.56.25:071][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.633 ms (total: 5.73 sec)
+[2025.07.30-16.56.25:172][569]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.30-16.56.25:172][569]LogContentValidation: Enabled validators:
+[2025.07.30-16.56.25:172][569]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.30-16.56.25:172][569]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.30-16.56.25:172][569]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.30-16.56.25:172][569]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.30-16.56.25:172][569]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.30-16.56.25:172][569]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.30-16.56.25:172][569]AssetCheck: /Game/Characters/Mannequins/Animations/ABP_EBAC Validating asset
+[2025.07.30-16.56.50:376][916]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15485.169922
+[2025.07.30-16.56.50:590][929]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-16.56.50:590][929]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15485.367188, Update Interval: 303.092743
+[2025.07.30-16.57.23:810][764]LogEditorTransaction: Undo Delete current selection
+[2025.07.30-16.57.24:015][764]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.07.30-16.58.48:335][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.07.30-16.58.49:088][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.30-16.58.49:196][500]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/BP_Pickup_Master] ([2] browsable assets)...
+[2025.07.30-16.58.49:278][500]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Pickup_Master.BP_Pickup_Master]
+[2025.07.30-16.58.49:278][500]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Pickup_Master]
+[2025.07.30-16.58.49:278][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Pickup_Master" FILE="../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/BP/BP_Pickup_Master.uasset" SILENT=true
+[2025.07.30-16.58.49:285][500]LogSavePackage: Moving output files for package: /Game/BP/BP_Pickup_Master
+[2025.07.30-16.58.49:285][500]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/BP_Pickup_MasterDAEDCEFD4E776103C75A108008498A80.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/BP/BP_Pickup_Master.uasset'
+[2025.07.30-16.58.49:297][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 208.357 ms (total: 5.94 sec)
+[2025.07.30-16.58.49:409][500]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.30-16.58.49:409][500]LogContentValidation: Enabled validators:
+[2025.07.30-16.58.49:409][500]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.30-16.58.49:409][500]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.30-16.58.49:409][500]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.30-16.58.49:409][500]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.30-16.58.49:409][500]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.30-16.58.49:409][500]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.30-16.58.49:409][500]AssetCheck: /Game/BP/BP_Pickup_Master Validating asset
+[2025.07.30-17.02.30:860][728]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15825.640625
+[2025.07.30-17.02.31:860][731]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-17.02.31:860][731]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15826.308594, Update Interval: 350.014954
+[2025.07.30-17.09.18:257][950]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16232.988281
+[2025.07.30-17.09.19:257][953]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-17.09.19:257][953]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16233.655273, Update Interval: 338.010193
+[2025.07.30-17.15.27:972][ 59]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16602.876953
+[2025.07.30-17.15.28:973][ 62]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-17.15.28:973][ 62]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16603.544922, Update Interval: 344.475830
+[2025.07.30-17.22.05:631][757]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17000.753906
+[2025.07.30-17.22.06:630][760]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-17.22.06:630][760]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17001.419922, Update Interval: 320.658600
+[2025.07.30-17.25.49:384][454]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.30-17.25.49:390][454]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.07.30-17.25.49:390][454]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.07.30-17.25.49:392][454]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.082 ms (total: 72.929 ms)
+[2025.07.30-17.25.49:392][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.30-17.25.49:392][454]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.30-17.25.49:402][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010276s)
+[2025.07.30-17.25.49:402][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010319s)
+[2025.07.30-17.25.49:429][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.07.30-17.25.49:438][454]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.07.30-17.25.49:440][454]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.30-17.25.49:440][454]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.30-17.25.49:440][454]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.30-17.25.49:440][454]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.30-17.25.49:444][454]LogWorldPartition: Display: WorldPartition initialize took 4.099 ms (total: 2.75 sec)
+[2025.07.30-17.25.49:444][454]LogPlayLevel: PIE: World Init took: (0.006043s)
+[2025.07.30-17.25.49:444][454]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.07.30-17.25.49:445][454]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.30-17.25.49:445][454]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.30-17.25.49:445][454]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.30-17.25.49:445][454]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.30-17.25.49:445][454]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.30-17.25.49:445][454]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.30-17.25.49:445][454]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.30-17.25.49:445][454]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.30-17.25.49:445][454]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.30-17.25.49:445][454]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.30-17.25.49:445][454]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.30-17.25.49:448][454]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.30-17.25.49:482][454]LogAudioMixer: Display: Using Audio Hardware Device Fones de ouvido (Zone 300)
+[2025.07.30-17.25.49:482][454]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.30-17.25.49:482][454]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.30-17.25.49:482][454]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.30-17.25.49:484][454]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.07.30-17.25.49:484][454]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.07.30-17.25.49:485][454]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.07.30-17.25.49:486][454]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.07.30-17.25.49:486][454]LogInit: FAudioDevice initialized with ID 11.
+[2025.07.30-17.25.49:486][454]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonMap'.
+[2025.07.30-17.25.49:486][454]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.07.30-17.25.49:489][454]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.30-17.25.49:496][454]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.07.30-14.25.49
+[2025.07.30-17.25.49:497][454]LogWorld: Bringing up level for play took: 0.006491
+[2025.07.30-17.25.49:499][454]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.07.30-17.25.49:501][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set Interact Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.25.49:501][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set IsFalling Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.25.49:501][454]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set IsFalling Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.25.49:501][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.25.49:501][454]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.25.49:501][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set BLookAt Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.25.49:501][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Set Look At Location Graph:  EventGraph Function:  Execute Ubergraph ABP EBAC Blueprint:  ABP_EBAC
+[2025.07.30-17.25.49:504][454]PIE: Server logged in
+[2025.07.30-17.25.49:505][454]PIE: Play in editor total start time 0,115 seconds.
+[2025.07.30-17.26.12:106][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.30-17.26.12:106][861]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.30-17.26.12:106][861]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.30-17.26.12:107][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-17.26.12:107][861]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.07.30-17.26.12:164][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.30-17.26.12:170][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-17.26.12:196][861]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.30-17.26.12:196][861]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.07.30-17.26.12:196][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.07.30-17.26.12:198][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.07.30-17.26.12:204][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.30-17.26.12:209][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.07.30-17.26.12:453][862]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.07.30-17.26.15:014][900]LogSlate: Window 'Message Log' being destroyed
+[2025.07.30-17.26.15:188][900]LogSlate: Window 'Message Log' being destroyed
