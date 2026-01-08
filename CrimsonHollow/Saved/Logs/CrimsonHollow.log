@@ -2377,3 +2377,311 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.08-21.26.55:983][260]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2879.125977
 [2026.01.08-21.26.56:983][263]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.08-21.26.56:983][263]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2879.792969, Update Interval: 310.342102
+[2026.01.08-21.32.45:401][219]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3228.549316
+[2026.01.08-21.32.46:403][222]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-21.32.46:404][222]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3229.216553, Update Interval: 336.164429
+[2026.01.08-21.38.52:974][439]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3596.119385
+[2026.01.08-21.38.53:976][442]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-21.38.53:976][442]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3596.786377, Update Interval: 300.021973
+[2026.01.08-21.40.45:338][777]LogDerivedDataCache: C:/Users/cathn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.08-21.43.37:544][ 61]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.01.08-21.43.37:553][ 61]LogContentBrowser: Creating deferred item: NewFolder
+[2026.01.08-21.43.37:570][ 62]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.01.08-21.43.38:832][190]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2026.01.08-21.43.38:833][190]LogContentBrowser: End creating deferred item NewFolder
+[2026.01.08-21.43.53:241][762]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2026.01.08-21.43.53:253][762]LogContentBrowser: Creating deferred item: NewWorld
+[2026.01.08-21.43.53:287][764]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2026.01.08-21.43.55:410][975]LogContentBrowser: Attempting asset rename: NewWorld -> TestMap
+[2026.01.08-21.43.55:422][975]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2026.01.08-21.43.55:424][975]LogContentBrowser: End creating deferred item NewWorld
+[2026.01.08-21.43.57:928][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.01.08-21.43.58:801][211]LogSlate: Window 'Save Content' being destroyed
+[2026.01.08-21.43.58:812][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-21.43.58:848][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap" FILE="../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/Maps/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.08-21.43.58:864][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.01.08-21.43.58:867][211]LogSavePackage: Moving output files for package: /Game/Maps/TestMap
+[2026.01.08-21.43.58:867][211]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/TestMap2CEF2A8B45A29C882B57AEB59C9331E5.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/Maps/TestMap.umap'
+[2026.01.08-21.43.58:923][211]LogFileHelpers: Saving map 'TestMap' took 0.074
+[2026.01.08-21.43.58:931][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.714 ms (total: 1.32 sec)
+[2026.01.08-21.43.58:997][211]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-21.43.58:997][211]LogContentValidation: Enabled validators:
+[2026.01.08-21.43.58:997][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-21.43.58:997][211]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-21.43.58:997][211]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-21.43.58:998][211]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-21.43.58:998][211]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-21.43.58:998][211]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-21.43.58:998][211]AssetCheck: /Game/Maps/TestMap Validating asset
+[2026.01.08-21.44.14:120][534]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.08-21.44.16:275][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.01.08-21.44.16:279][735]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/TestMap.TestMap
+[2026.01.08-21.44.16:279][735]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/Maps/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.01.08-21.44.16:326][735]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.08-21.44.16:326][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-21.44.16:326][735]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2026.01.08-21.44.16:348][735]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.08-21.44.16:356][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.01.08-21.44.16:361][735]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.08-21.44.16:361][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-21.44.16:376][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.01.08-21.44.16:450][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.01.08-21.44.16:453][735]LogStreaming: Display: FlushAsyncLoading(397): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.08-21.44.16:454][735]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMap'.
+[2026.01.08-21.44.16:455][735]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2026.01.08-21.44.16:469][735]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.01.08-21.44.16:486][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.01.08-21.44.16:494][735]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.01.08-21.44.16:495][735]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,098ms to complete.
+[2026.01.08-21.44.18:125][810]LogSlate: External Image Picker: DecompressImage failed
+[2026.01.08-21.44.30:729][717]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.01.08-21.44.30:729][717]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.01.08-21.44.30:729][717]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_0
+[2026.01.08-21.44.30:730][717]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_0
+[2026.01.08-21.44.30:733][717]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.01.08-21.44.31:238][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.01.08-21.44.31:242][750]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2026.01.08-21.44.31:248][750]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.01.08-21.44.31:248][750]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.01.08-21.44.31:250][750]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_1
+[2026.01.08-21.44.31:252][750]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_1
+[2026.01.08-21.44.51:065][310]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3954.202637
+[2026.01.08-21.44.51:280][328]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-21.44.51:280][328]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3954.404541, Update Interval: 348.105103
+[2026.01.08-21.45.18:900][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.01.08-21.45.19:963][ 84]LogSlate: Window 'Save Content' being destroyed
+[2026.01.08-21.45.19:973][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-21.45.20:037][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap" FILE="../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/Maps/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.08-21.45.20:072][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.01.08-21.45.20:076][ 84]LogSavePackage: Moving output files for package: /Game/Maps/TestMap
+[2026.01.08-21.45.20:077][ 84]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/TestMap1AD253DA40B70BDF459A6BA574A5BD95.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/Maps/TestMap.umap'
+[2026.01.08-21.45.20:088][ 84]LogFileHelpers: Saving map 'TestMap' took 0.051
+[2026.01.08-21.45.20:099][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.708 ms (total: 1.44 sec)
+[2026.01.08-21.45.20:151][ 84]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-21.45.20:151][ 84]LogContentValidation: Enabled validators:
+[2026.01.08-21.45.20:151][ 84]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-21.45.20:151][ 84]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-21.45.20:151][ 84]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-21.45.20:151][ 84]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-21.45.20:151][ 84]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-21.45.20:151][ 84]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-21.45.20:151][ 84]AssetCheck: /Game/Maps/TestMap Validating asset
+[2026.01.08-21.45.48:601][215]LogShaderCompilers: Display: ================================================
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Total job queries 1.575, among them cache hits 239 (15.17%), DDC hits 1.115 (70.79%), Duplicates 4 (0.25%)
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Tracking 1.332 distinct input hashes that result in 1.048 distinct outputs (78.68%)
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: RAM used: 638,31 KiB of 3,00 GiB budget. Usage: 0.02%
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Shaders Compiled: 217
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Jobs assigned 217, completed 217 (100%)
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Average time worker was idle: 208.22 s
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Time job spent in pending queue: average 4.46 s, longest 20.52 s
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Job execution time: average 5.13 s, max 18.40 s
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Job life time (pending + execution): average 9.58 s, max 24.98
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Shader code size: average 9,555 KiB, min 2,691 KiB, max 49,637 KiB
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 61.17 s
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.05%
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Jobs were issued in 127 batches (only local compilation was used), average 1.71 jobs/batch
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Average processing rate: 3.55 jobs/sec
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Total thread time: 268,955 s
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Total thread preprocess time: 36,696 s
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Percentage time preprocessing: 13.64%
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Effective parallelization: 4.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   11 times, average 3.46 sec, max 4.93 sec, min 2.33 sec)
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    4 times, average 3.34 sec, max 3.50 sec, min 3.15 sec)
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    4 times, average 3.34 sec, max 3.57 sec, min 3.15 sec)
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.57 sec, max 2.57 sec, min 2.57 sec)
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    3 times, average 2.41 sec, max 2.77 sec, min 2.10 sec)
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display:                                             FDebugViewModePS - 14.14% of total time (compiled   11 times, average 3.46 sec, max 4.93 sec, min 2.33 sec)
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.69% of total time (compiled   26 times, average 1.21 sec, max 1.53 sec, min 0.72 sec)
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.98% of total time (compiled   27 times, average 0.79 sec, max 1.13 sec, min 0.42 sec)
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.39% of total time (compiled   10 times, average 1.45 sec, max 2.78 sec, min 1.10 sec)
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display:                                                 FLumenCardPS - 5.20% of total time (compiled   15 times, average 0.93 sec, max 1.52 sec, min 0.61 sec)
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: === Material stats ===
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Materials Translated:    162
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Material Total Translate Time: 1.08 s
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Material Translation Only: 0.18 s (17%)
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.08-21.45.48:602][215]LogShaderCompilers: Display: ================================================
+[2026.01.08-21.46.21:209][146]LogEditor: Attempting to add actor of class 'SkyLight' to level at 0.00,0.00,0.00
+[2026.01.08-21.46.26:267][444]LogEditor: Attempting to add actor of class 'SkyAtmosphere' to level at 0.00,0.00,0.00
+[2026.01.08-21.46.42:374][597]LogEditor: Attempting to add actor of class 'DirectionalLight' to level at 0.00,0.00,0.00
+[2026.01.08-21.46.42:937][616]LogEditor: Attempting to add actor of class 'VolumetricCloud' to level at 0.00,0.00,0.00
+[2026.01.08-21.46.43:597][640]LogEditor: Attempting to add actor of class 'ExponentialHeightFog' to level at 0.00,0.00,0.00
+[2026.01.08-21.46.44:997][697]LogSlate: Window 'EnvironmentLighting Viewer' being destroyed
+[2026.01.08-21.46.45:007][697]LogSlate: Window 'EnvironmentLighting Viewer' being destroyed
+[2026.01.08-21.46.50:322][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.01.08-21.46.51:143][880]LogSlate: Window 'Save Content' being destroyed
+[2026.01.08-21.46.51:156][880]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-21.46.51:211][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap" FILE="../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/Maps/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.08-21.46.51:246][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.08-21.46.51:253][880]LogSavePackage: Moving output files for package: /Game/Maps/TestMap
+[2026.01.08-21.46.51:253][880]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/TestMap6B78A8294FED16497F0C428C9A96793A.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/Maps/TestMap.umap'
+[2026.01.08-21.46.51:270][880]LogFileHelpers: Saving map 'TestMap' took 0.060
+[2026.01.08-21.46.51:277][880]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.631 ms (total: 1.57 sec)
+[2026.01.08-21.46.51:344][880]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-21.46.51:344][880]LogContentValidation: Enabled validators:
+[2026.01.08-21.46.51:344][880]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-21.46.51:344][880]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-21.46.51:344][880]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-21.46.51:344][880]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-21.46.51:344][880]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-21.46.51:344][880]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-21.46.51:344][880]AssetCheck: /Game/Maps/TestMap Validating asset
+[2026.01.08-21.47.05:358][231]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2026.01.08-21.47.05:358][231]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2026.01.08-21.47.05:359][231]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/TestMap.TestMap:PersistentLevel.PlayerStart_0
+[2026.01.08-21.47.05:359][231]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.01.08-21.47.05:375][231]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/TestMap.TestMap:PersistentLevel.PlayerStart_0
+[2026.01.08-21.47.05:376][231]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.01.08-21.47.06:272][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.01.08-21.47.06:274][256]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2026.01.08-21.47.06:280][256]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2026.01.08-21.47.06:280][256]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2026.01.08-21.47.06:284][256]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/TestMap.TestMap:PersistentLevel.PlayerStart_1
+[2026.01.08-21.47.06:284][256]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.01.08-21.47.06:285][256]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/TestMap.TestMap:PersistentLevel.PlayerStart_1
+[2026.01.08-21.47.06:285][256]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.01.08-21.47.08:339][297]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.01.08-21.47.19:050][432]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2026.01.08-21.47.19:096][432]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2026.01.08-21.47.38:891][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-21.47.38:984][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap" FILE="../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/Maps/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.08-21.47.39:019][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.01.08-21.47.39:032][650]LogSavePackage: Moving output files for package: /Game/Maps/TestMap
+[2026.01.08-21.47.39:033][650]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/TestMap90E1A87C4C0A3121CE6AF183E6F92F05.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/Maps/TestMap.umap'
+[2026.01.08-21.47.39:044][650]LogFileHelpers: Saving map 'TestMap' took 0.060
+[2026.01.08-21.47.39:054][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.876 ms (total: 1.73 sec)
+[2026.01.08-21.47.39:113][650]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-21.47.39:113][650]LogContentValidation: Enabled validators:
+[2026.01.08-21.47.39:113][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-21.47.39:113][650]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-21.47.39:113][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-21.47.39:113][650]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-21.47.39:113][650]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-21.47.39:113][650]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-21.47.39:113][650]AssetCheck: /Game/Maps/TestMap Validating asset
+[2026.01.08-21.47.39:832][677]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.08-21.47.39:840][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.08-21.47.39:867][677]LogPlayLevel: Display: Creating online subsystem for client :Context_20
+[2026.01.08-21.47.39:870][677]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2026.01.08-21.47.39:888][678]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2026.01.08-21.47.39:890][678]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001525s)
+[2026.01.08-21.47.39:890][678]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001583s)
+[2026.01.08-21.47.39:902][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.01.08-21.47.39:904][678]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2026.01.08-21.47.39:907][678]LogPlayLevel: PIE: World Init took: (0.002025s)
+[2026.01.08-21.47.39:908][678]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.01.08-21.47.39:908][678]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.08-21.47.39:908][678]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.08-21.47.39:908][678]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.08-21.47.39:908][678]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.08-21.47.39:908][678]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.08-21.47.39:908][678]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.08-21.47.39:908][678]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.08-21.47.39:908][678]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.08-21.47.39:908][678]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.08-21.47.39:908][678]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.08-21.47.39:908][678]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.08-21.47.39:911][678]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.08-21.47.39:946][678]LogAudioMixer: Display: Using Audio Hardware Device C27F591 (2- NVIDIA High Definition Audio)
+[2026.01.08-21.47.39:948][678]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.08-21.47.39:948][678]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.08-21.47.39:948][678]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.08-21.47.39:949][678]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.01.08-21.47.39:949][678]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.01.08-21.47.39:952][678]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.01.08-21.47.39:952][678]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.01.08-21.47.39:952][678]LogInit: FAudioDevice initialized with ID 3.
+[2026.01.08-21.47.39:952][678]LogAudio: Display: Audio Device (ID: 3) registered with world 'TestMap'.
+[2026.01.08-21.47.39:952][678]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.01.08-21.47.40:006][678]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.08-21.47.40:007][678]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2026.01.08-18.47.40
+[2026.01.08-21.47.40:008][678]LogWorld: Bringing up level for play took: 0.000758
+[2026.01.08-21.47.40:012][678]PIE: Server logged in
+[2026.01.08-21.47.40:013][678]PIE: Play in editor total start time 0,175 seconds.
+[2026.01.08-21.47.41:957][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-21.47.41:958][691]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2026.01.08-21.47.41:958][691]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.08-21.47.41:958][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-21.47.42:121][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.08-21.47.42:124][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-21.47.42:138][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-21.47.42:138][691]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.01.08-21.47.42:138][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2026.01.08-21.47.42:141][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2026.01.08-21.47.42:148][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.01.08-21.47.42:208][692]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2026.01.08-21.47.51:268][877]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.01.08-21.47.52:115][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-21.47.52:347][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap" FILE="../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/Maps/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.08-21.47.52:380][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.01.08-21.47.52:389][884]LogSavePackage: Moving output files for package: /Game/Maps/TestMap
+[2026.01.08-21.47.52:389][884]LogSavePackage: Moving '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Saved/TestMapD0761E3D463E07451E5C19B2DD736086.tmp' to '../../../../../../Unreal Projects/Estudo/CrimsonHollow/CrimsonHollow/Content/Maps/TestMap.umap'
+[2026.01.08-21.47.52:399][884]LogFileHelpers: Saving map 'TestMap' took 0.053
+[2026.01.08-21.47.52:409][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 292.797 ms (total: 2.02 sec)
+[2026.01.08-21.47.52:462][884]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.08-21.47.52:462][884]LogContentValidation: Enabled validators:
+[2026.01.08-21.47.52:462][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-21.47.52:462][884]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-21.47.52:462][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-21.47.52:462][884]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-21.47.52:462][884]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-21.47.52:462][884]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-21.47.52:463][884]AssetCheck: /Game/Maps/TestMap Validating asset
+[2026.01.08-21.47.59:687][978]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.08-21.47.59:694][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.08-21.47.59:694][978]LogPlayLevel: Display: Creating online subsystem for client :Context_21
+[2026.01.08-21.47.59:698][978]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2026.01.08-21.47.59:775][979]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2026.01.08-21.47.59:778][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001743s)
+[2026.01.08-21.47.59:778][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001804s)
+[2026.01.08-21.47.59:791][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.01.08-21.47.59:793][979]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2026.01.08-21.47.59:794][979]LogPlayLevel: PIE: World Init took: (0.001817s)
+[2026.01.08-21.47.59:795][979]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.01.08-21.47.59:795][979]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.08-21.47.59:795][979]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.08-21.47.59:795][979]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.08-21.47.59:795][979]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.08-21.47.59:795][979]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.08-21.47.59:795][979]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.08-21.47.59:795][979]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.08-21.47.59:795][979]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.08-21.47.59:795][979]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.08-21.47.59:795][979]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.08-21.47.59:795][979]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.08-21.47.59:799][979]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.08-21.47.59:830][979]LogAudioMixer: Display: Using Audio Hardware Device C27F591 (2- NVIDIA High Definition Audio)
+[2026.01.08-21.47.59:830][979]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.08-21.47.59:832][979]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.08-21.47.59:832][979]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.08-21.47.59:832][979]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.01.08-21.47.59:832][979]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.01.08-21.47.59:835][979]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.01.08-21.47.59:835][979]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.01.08-21.47.59:836][979]LogInit: FAudioDevice initialized with ID 4.
+[2026.01.08-21.47.59:836][979]LogAudio: Display: Audio Device (ID: 4) registered with world 'TestMap'.
+[2026.01.08-21.47.59:836][979]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.01.08-21.48.00:082][979]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.08-21.48.00:083][979]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2026.01.08-18.48.00
+[2026.01.08-21.48.00:084][979]LogWorld: Bringing up level for play took: 0.000739
+[2026.01.08-21.48.00:088][979]PIE: Server logged in
+[2026.01.08-21.48.00:090][979]PIE: Play in editor total start time 0,396 seconds.
+[2026.01.08-21.48.06:318][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-21.48.06:318][ 25]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2026.01.08-21.48.06:318][ 25]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.08-21.48.06:319][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-21.48.06:479][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.08-21.48.06:482][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-21.48.06:494][ 25]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.08-21.48.06:494][ 25]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.01.08-21.48.06:494][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2026.01.08-21.48.06:496][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2026.01.08-21.48.06:503][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.08-21.48.06:505][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.01.08-21.48.06:707][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_21
